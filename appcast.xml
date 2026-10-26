@@ -3,6 +3,21 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
+            <title>0.9.0</title>
+            <pubDate>Mon, 26 Oct 2026 17:15:21 -0300</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Stash:** novo histórico da área de transferência. Guarda o texto, os links e as imagens que você copia (só neste Mac) e abre num painel com ⌘⇧V: a lista fica à esquerda, agrupada em Favoritos, Hoje, Ontem e Anteriores, e a prévia com as informações do item, à direita.
+- Favorite até 5 itens com ⌘D (eles nunca expiram), edite textos com ⌘E, filtre por tipo, busque digitando, cole com Return ou ⌘1–9 e apague com ⌘⌫.
+- Cópias de gerenciadores de senha e de apps ignorados nunca entram. Ajustes em Ajustes > Stash: limite de itens, idade máxima, imagens e apps ignorados. Para colar direto no app da frente, libere a Acessibilidade; sem ela o item só é copiado.
+- O Stash vem ligado. Se o ⌘⇧V (colar sem formatação em vários apps) atrapalhar, troque o atalho ou desligue o Stash em Ajustes.
+- **Scratch:** novo rascunho rápido, aberto com ⌥⌘J. Um rascunho único que salva sozinho e nunca se perde; ⌘↩ arquiva no histórico, ⌘H abre o histórico (com busca e restaurar) e ⌘T transforma cada linha, ou as linhas selecionadas, em tarefas nos Lembretes.
+- Os Ajustes agora têm uma barra lateral, no lugar das abas do topo, para caberem mais recursos.
+]]></description>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.9.0/Limen-0.9.0.dmg" length="4452923" type="application/octet-stream" sparkle:edSignature="QMRiYzA4QJNKVKSPIrQFiFT6jyoNMN/z3Ya/Rlt9KQjHVecfaDrbtn5aG1HEIMiQ1SUiwvXbOOWj5S8wzVLuDw=="/>
+        </item>
+        <item>
             <title>0.8.4</title>
             <pubDate>Mon, 26 Oct 2026 15:55:46 -0300</pubDate>
             <sparkle:version>22</sparkle:version>
@@ -10,7 +25,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[- **Pomodoro:** corrige o fechamento do app quando o aviso de troca de fase aparecia (ao fim da pausa ou do foco).
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.8.4/Limen-0.8.4.dmg" length="3878318" type="application/octet-stream" sparkle:edSignature="0xfY6FKS2QiVMzvloCEfYErK1o6rSJWK7p2KZSfKmRUhsUEn2Hq0OX9ZuMY9QUBGe7gt0QJUuwMkRIEOIwf+DQ=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.9.0/Limen-0.8.4.dmg" length="3878318" type="application/octet-stream" sparkle:edSignature="0xfY6FKS2QiVMzvloCEfYErK1o6rSJWK7p2KZSfKmRUhsUEn2Hq0OX9ZuMY9QUBGe7gt0QJUuwMkRIEOIwf+DQ=="/>
         </item>
         <item>
             <title>0.8.3</title>
@@ -20,17 +35,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[- **Pomodoro:** corrige o aviso visual (a pílula no canto da tela) que não aparecia ao fim de cada fase.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.8.4/Limen-0.8.3.dmg" length="3878108" type="application/octet-stream" sparkle:edSignature="HXwNJtDjT/MqKBAOORqeMF67cTjqhoZUvzagKlGbqTQwKcUQ1xHNZA0NrIbDTPyckr3Jwei9EgTPPmb7cT+7Aw=="/>
-        </item>
-        <item>
-            <title>0.8.2</title>
-            <pubDate>Fri, 23 Oct 2026 11:16:10 -0300</pubDate>
-            <sparkle:version>20</sparkle:version>
-            <sparkle:shortVersionString>0.8.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- **Vitral:** o submenu da barra de menus agora mostra um ícone em cada posição e o atalho gravado à direita.
-]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.8.4/Limen-0.8.2.dmg" length="3878264" type="application/octet-stream" sparkle:edSignature="vCofWmzcvOWembtT4LFa2tkYSDpQp13x27uDCrgh35xQYBL03UETc5pk1RtyLrqqAoHI/VupTA2iEKGZMSYlBQ=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.9.0/Limen-0.8.3.dmg" length="3878108" type="application/octet-stream" sparkle:edSignature="HXwNJtDjT/MqKBAOORqeMF67cTjqhoZUvzagKlGbqTQwKcUQ1xHNZA0NrIbDTPyckr3Jwei9EgTPPmb7cT+7Aw=="/>
         </item>
     </channel>
 </rss>
