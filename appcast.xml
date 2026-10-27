@@ -3,6 +3,19 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
+            <title>0.12.0</title>
+            <pubDate>Tue, 27 Oct 2026 14:58:32 -0300</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>0.12.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Stash, quickview de imagens:** duplo clique na prévia (ou Espaço) abre a imagem grande, com zoom por pinça ou duplo clique. As setas passam para a imagem anterior ou a próxima, e Esc volta ao Stash.
+- **Stash, conversor de imagem:** menu Converter para salvar ou copiar em PNG, JPEG, HEIC ou TIFF, com tamanho Original, 75%, 50% ou 25% e o peso estimado de cada formato. Salva na pasta de salvamento da Captura e avisa onde gravou; "Mostrar no Finder ao salvar" é opcional.
+- **Stash, arrastar:** arraste a imagem da prévia para o Finder, o Mail ou o Slack, no formato escolhido em Ajustes > Stash, onde também está a qualidade de JPEG e HEIC.
+- **Stash, menu de contexto:** clique com o botão direito numa linha para colar, ampliar, converter, favoritar ou apagar.
+]]></description>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.12.0/Limen-0.12.0.dmg" length="4885217" type="application/octet-stream" sparkle:edSignature="cmnHaSkwnQ35qSTRjtm8eszDxlTRBzXTyoEmle4uA+5LCSHod7ywDCjhm3RSuihivMhrn7Lyb91k0Qm/0cbuBQ=="/>
+        </item>
+        <item>
             <title>0.11.0</title>
             <pubDate>Tue, 27 Oct 2026 09:46:59 -0300</pubDate>
             <sparkle:version>26</sparkle:version>
@@ -16,7 +29,7 @@
 - **⌘S** agora salva em Downloads por padrão, e a pasta pode ser trocada em Ajustes > Captura.
 - Esc fecha a captura de qualquer ponto, e um aviso explica quando falta a permissão de Gravação de Tela.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.11.0/Limen-0.11.0.dmg" length="4751284" type="application/octet-stream" sparkle:edSignature="+/BmHrnh4jRpySoQikushTFuvGGYfIFAekmZIUybEbdn6B1Y5RruOFoNFKFgpzeDkwUheF/+VXU5zf+TlOudCA=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.12.0/Limen-0.11.0.dmg" length="4751284" type="application/octet-stream" sparkle:edSignature="+/BmHrnh4jRpySoQikushTFuvGGYfIFAekmZIUybEbdn6B1Y5RruOFoNFKFgpzeDkwUheF/+VXU5zf+TlOudCA=="/>
         </item>
         <item>
             <title>0.10.0</title>
@@ -30,17 +43,7 @@
 - Precisa da permissão de Gravação de Tela, pedida na primeira vez. Dá para desligar ou trocar o atalho em Ajustes > Captura.
 - **Stash:** a seleção de um item com o clique do mouse agora é instantânea (corrige a 0.9.1).
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.11.0/Limen-0.10.0.dmg" length="4664267" type="application/octet-stream" sparkle:edSignature="q3MGQRVA1S/zfWyo8mDca+pbsQHsJmXKyWuVt2akJwccwY8p60MMtxKcGBwINJhCohsctEX86Sk0t19AZEROBw=="/>
-        </item>
-        <item>
-            <title>0.9.1</title>
-            <pubDate>Mon, 26 Oct 2026 17:23:07 -0300</pubDate>
-            <sparkle:version>24</sparkle:version>
-            <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- **Stash:** a seleção com o clique do mouse agora é instantânea (antes esperava o intervalo de duplo clique).
-]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.11.0/Limen-0.9.1.dmg" length="4454659" type="application/octet-stream" sparkle:edSignature="LZMsJ8ztPfs2Q1zQIHiwG4a2CvxXnv/ZBaql17Pa1BpHFhBeO/ML9HSJ7q665FG17ilbVbBE8S+YxfNcA099AA=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.12.0/Limen-0.10.0.dmg" length="4664267" type="application/octet-stream" sparkle:edSignature="q3MGQRVA1S/zfWyo8mDca+pbsQHsJmXKyWuVt2akJwccwY8p60MMtxKcGBwINJhCohsctEX86Sk0t19AZEROBw=="/>
         </item>
     </channel>
 </rss>
