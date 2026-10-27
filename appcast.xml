@@ -3,6 +3,17 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
+            <title>0.12.1</title>
+            <pubDate>Tue, 27 Oct 2026 17:25:48 -0300</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>0.12.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Captura, girar:** girar a imagem funciona também em regiões largas ou altas demais para caber na tela depois de giradas. A região encolhe, com as marcações, em vez de o giro ser recusado.
+- **Captura, mover a região:** com a ferramenta Selecionar, arraste a região pelo fundo para outro ponto da tela. As marcações e a barra acompanham.
+]]></description>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.12.1/Limen-0.12.1.dmg" length="4886890" type="application/octet-stream" sparkle:edSignature="+6ilhNxjStfYRJLaaTXuLuuAwW+da/wawn36BH4t2BahEVSFo7IwYlULipWLu6jP4Cp0x1d/3Q9s69xrhdwDBQ=="/>
+        </item>
+        <item>
             <title>0.12.0</title>
             <pubDate>Tue, 27 Oct 2026 14:58:32 -0300</pubDate>
             <sparkle:version>27</sparkle:version>
@@ -13,7 +24,7 @@
 - **Stash, arrastar:** arraste a imagem da prévia para o Finder, o Mail ou o Slack, no formato escolhido em Ajustes > Stash, onde também está a qualidade de JPEG e HEIC.
 - **Stash, menu de contexto:** clique com o botão direito numa linha para colar, ampliar, converter, favoritar ou apagar.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.12.0/Limen-0.12.0.dmg" length="4885217" type="application/octet-stream" sparkle:edSignature="cmnHaSkwnQ35qSTRjtm8eszDxlTRBzXTyoEmle4uA+5LCSHod7ywDCjhm3RSuihivMhrn7Lyb91k0Qm/0cbuBQ=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.12.1/Limen-0.12.0.dmg" length="4885217" type="application/octet-stream" sparkle:edSignature="cmnHaSkwnQ35qSTRjtm8eszDxlTRBzXTyoEmle4uA+5LCSHod7ywDCjhm3RSuihivMhrn7Lyb91k0Qm/0cbuBQ=="/>
         </item>
         <item>
             <title>0.11.0</title>
@@ -29,21 +40,7 @@
 - **⌘S** agora salva em Downloads por padrão, e a pasta pode ser trocada em Ajustes > Captura.
 - Esc fecha a captura de qualquer ponto, e um aviso explica quando falta a permissão de Gravação de Tela.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.12.0/Limen-0.11.0.dmg" length="4751284" type="application/octet-stream" sparkle:edSignature="+/BmHrnh4jRpySoQikushTFuvGGYfIFAekmZIUybEbdn6B1Y5RruOFoNFKFgpzeDkwUheF/+VXU5zf+TlOudCA=="/>
-        </item>
-        <item>
-            <title>0.10.0</title>
-            <pubDate>Mon, 26 Oct 2026 18:11:32 -0300</pubDate>
-            <sparkle:version>25</sparkle:version>
-            <sparkle:shortVersionString>0.10.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- **Captura:** novo recurso para capturar a tela e marcar a imagem na hora, aberto com ⌘⇧2. A tela congela, você arrasta a região e a barra de ferramentas aparece colada na seleção.
-- Ferramentas: seta, retângulo, círculo, triângulo, texto e marca-texto, com cinco cores e três espessuras. Qualquer marcação pode ser movida, redimensionada, recolorida ou apagada depois de desenhada (clique nela, ou use V para selecionar); duplo clique edita o texto e tudo entra no ⌘Z.
-- ↩ copia a imagem e a guarda no Stash; ⌘S também grava um PNG na Mesa; Esc cancela. Em regiões estreitas a barra se dobra em mais linhas para caber.
-- Precisa da permissão de Gravação de Tela, pedida na primeira vez. Dá para desligar ou trocar o atalho em Ajustes > Captura.
-- **Stash:** a seleção de um item com o clique do mouse agora é instantânea (corrige a 0.9.1).
-]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.12.0/Limen-0.10.0.dmg" length="4664267" type="application/octet-stream" sparkle:edSignature="q3MGQRVA1S/zfWyo8mDca+pbsQHsJmXKyWuVt2akJwccwY8p60MMtxKcGBwINJhCohsctEX86Sk0t19AZEROBw=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.12.1/Limen-0.11.0.dmg" length="4751284" type="application/octet-stream" sparkle:edSignature="+/BmHrnh4jRpySoQikushTFuvGGYfIFAekmZIUybEbdn6B1Y5RruOFoNFKFgpzeDkwUheF/+VXU5zf+TlOudCA=="/>
         </item>
     </channel>
 </rss>
