@@ -3,6 +3,17 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
+            <title>0.14.0</title>
+            <pubDate>Thu, 29 Oct 2026 11:31:54 -0300</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>0.14.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Captura, ferramenta Linha:** nova ferramenta para traçar uma reta, sem ponta de seta (tecla L). Ela se move, gira e muda de tamanho arrastando as duas pontas, como a seta.
+- **Captura, atalhos da barra:** em Ajustes > Captura, "Atalhos da barra de ferramentas" permite trocar a tecla de cada ferramenta. Teclas repetidas são recusadas, e dá para restaurar uma ou todas.
+]]></description>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.14.0/Limen-0.14.0.dmg" length="4905548" type="application/octet-stream" sparkle:edSignature="4JQLP/a1aQDKO0uY9uFaEhvzKbVYEcPowZR4zUXKm/0DzfHqb6N50lLMMqpFiKBEGrk74PD5UrTbue8+rE9KDA=="/>
+        </item>
+        <item>
             <title>0.13.0</title>
             <pubDate>Thu, 29 Oct 2026 09:46:47 -0300</pubDate>
             <sparkle:version>29</sparkle:version>
@@ -12,7 +23,7 @@
 - **Pomodoro, aviso na pausa:** se você mexer durante a pausa, uma pílula avisa que está em pausa e, com um clique, encerra a pausa e volta ao foco.
 - **Gaveta mais limpa:** o cabeçalho não tem mais os controles do Pomodoro nem o botão do Insomnio, só a música e as tarefas. Os dois continuam na barra de menus.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.13.0/Limen-0.13.0.dmg" length="4880731" type="application/octet-stream" sparkle:edSignature="r55LBGN0htRpD3WB452ecT5lJ+Vr3sQtyymRtR5V81Ay+QjbQNxesDpbOc5nGaRs6H3Ppa1zZTeklFuaD2HfDQ=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.14.0/Limen-0.13.0.dmg" length="4880731" type="application/octet-stream" sparkle:edSignature="r55LBGN0htRpD3WB452ecT5lJ+Vr3sQtyymRtR5V81Ay+QjbQNxesDpbOc5nGaRs6H3Ppa1zZTeklFuaD2HfDQ=="/>
         </item>
         <item>
             <title>0.12.1</title>
@@ -23,20 +34,7 @@
             <description sparkle:format="markdown"><![CDATA[- **Captura, girar:** girar a imagem funciona também em regiões largas ou altas demais para caber na tela depois de giradas. A região encolhe, com as marcações, em vez de o giro ser recusado.
 - **Captura, mover a região:** com a ferramenta Selecionar, arraste a região pelo fundo para outro ponto da tela. As marcações e a barra acompanham.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.13.0/Limen-0.12.1.dmg" length="4886890" type="application/octet-stream" sparkle:edSignature="+6ilhNxjStfYRJLaaTXuLuuAwW+da/wawn36BH4t2BahEVSFo7IwYlULipWLu6jP4Cp0x1d/3Q9s69xrhdwDBQ=="/>
-        </item>
-        <item>
-            <title>0.12.0</title>
-            <pubDate>Tue, 27 Oct 2026 14:58:32 -0300</pubDate>
-            <sparkle:version>27</sparkle:version>
-            <sparkle:shortVersionString>0.12.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- **Stash, quickview de imagens:** duplo clique na prévia (ou Espaço) abre a imagem grande, com zoom por pinça ou duplo clique. As setas passam para a imagem anterior ou a próxima, e Esc volta ao Stash.
-- **Stash, conversor de imagem:** menu Converter para salvar ou copiar em PNG, JPEG, HEIC ou TIFF, com tamanho Original, 75%, 50% ou 25% e o peso estimado de cada formato. Salva na pasta de salvamento da Captura e avisa onde gravou; "Mostrar no Finder ao salvar" é opcional.
-- **Stash, arrastar:** arraste a imagem da prévia para o Finder, o Mail ou o Slack, no formato escolhido em Ajustes > Stash, onde também está a qualidade de JPEG e HEIC.
-- **Stash, menu de contexto:** clique com o botão direito numa linha para colar, ampliar, converter, favoritar ou apagar.
-]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.13.0/Limen-0.12.0.dmg" length="4885217" type="application/octet-stream" sparkle:edSignature="cmnHaSkwnQ35qSTRjtm8eszDxlTRBzXTyoEmle4uA+5LCSHod7ywDCjhm3RSuihivMhrn7Lyb91k0Qm/0cbuBQ=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.14.0/Limen-0.12.1.dmg" length="4886890" type="application/octet-stream" sparkle:edSignature="+6ilhNxjStfYRJLaaTXuLuuAwW+da/wawn36BH4t2BahEVSFo7IwYlULipWLu6jP4Cp0x1d/3Q9s69xrhdwDBQ=="/>
         </item>
     </channel>
 </rss>
