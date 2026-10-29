@@ -3,6 +3,18 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
+            <title>0.13.0</title>
+            <pubDate>Thu, 29 Oct 2026 09:46:47 -0300</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Pomodoro, início por atividade:** novo ajuste "Iniciar as fases pela sua atividade". Terminado o foco, a pausa começa quando você para de mexer no mouse e no teclado (5 s por padrão, configurável). Terminada a pausa, o foco começa quando você volta a mexer. Inatividade no meio do foco não faz nada. Não pede permissão nova.
+- **Pomodoro, aviso na pausa:** se você mexer durante a pausa, uma pílula avisa que está em pausa e, com um clique, encerra a pausa e volta ao foco.
+- **Gaveta mais limpa:** o cabeçalho não tem mais os controles do Pomodoro nem o botão do Insomnio, só a música e as tarefas. Os dois continuam na barra de menus.
+]]></description>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.13.0/Limen-0.13.0.dmg" length="4880731" type="application/octet-stream" sparkle:edSignature="r55LBGN0htRpD3WB452ecT5lJ+Vr3sQtyymRtR5V81Ay+QjbQNxesDpbOc5nGaRs6H3Ppa1zZTeklFuaD2HfDQ=="/>
+        </item>
+        <item>
             <title>0.12.1</title>
             <pubDate>Tue, 27 Oct 2026 17:25:48 -0300</pubDate>
             <sparkle:version>28</sparkle:version>
@@ -11,7 +23,7 @@
             <description sparkle:format="markdown"><![CDATA[- **Captura, girar:** girar a imagem funciona também em regiões largas ou altas demais para caber na tela depois de giradas. A região encolhe, com as marcações, em vez de o giro ser recusado.
 - **Captura, mover a região:** com a ferramenta Selecionar, arraste a região pelo fundo para outro ponto da tela. As marcações e a barra acompanham.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.12.1/Limen-0.12.1.dmg" length="4886890" type="application/octet-stream" sparkle:edSignature="+6ilhNxjStfYRJLaaTXuLuuAwW+da/wawn36BH4t2BahEVSFo7IwYlULipWLu6jP4Cp0x1d/3Q9s69xrhdwDBQ=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.13.0/Limen-0.12.1.dmg" length="4886890" type="application/octet-stream" sparkle:edSignature="+6ilhNxjStfYRJLaaTXuLuuAwW+da/wawn36BH4t2BahEVSFo7IwYlULipWLu6jP4Cp0x1d/3Q9s69xrhdwDBQ=="/>
         </item>
         <item>
             <title>0.12.0</title>
@@ -24,23 +36,7 @@
 - **Stash, arrastar:** arraste a imagem da prévia para o Finder, o Mail ou o Slack, no formato escolhido em Ajustes > Stash, onde também está a qualidade de JPEG e HEIC.
 - **Stash, menu de contexto:** clique com o botão direito numa linha para colar, ampliar, converter, favoritar ou apagar.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.12.1/Limen-0.12.0.dmg" length="4885217" type="application/octet-stream" sparkle:edSignature="cmnHaSkwnQ35qSTRjtm8eszDxlTRBzXTyoEmle4uA+5LCSHod7ywDCjhm3RSuihivMhrn7Lyb91k0Qm/0cbuBQ=="/>
-        </item>
-        <item>
-            <title>0.11.0</title>
-            <pubDate>Tue, 27 Oct 2026 09:46:59 -0300</pubDate>
-            <sparkle:version>26</sparkle:version>
-            <sparkle:shortVersionString>0.11.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- **Captura:** qualquer marcação agora pode ser selecionada, movida, redimensionada, recolorida e apagada depois de desenhada (clique nela, ou use V); duplo clique edita o texto e tudo entra no ⌘Z.
-- Novas ferramentas: círculo, triângulo, **Tarja** (esconde o conteúdo de verdade) e **Pixelar**, para esconder dados sensíveis.
-- **Texto:** controle de tamanho da fonte (A− / A+ na barra, ou ⌘+ / ⌘−), de 10 a 120 pt.
-- **Girar a imagem:** ⌘R e ⇧⌘R, com animação suave. As marcações giram junto.
-- **Barra de ferramentas:** tooltips depois de uma pausa sobre cada botão, cursor em seta e dobra em várias linhas quando a região é estreita.
-- **⌘S** agora salva em Downloads por padrão, e a pasta pode ser trocada em Ajustes > Captura.
-- Esc fecha a captura de qualquer ponto, e um aviso explica quando falta a permissão de Gravação de Tela.
-]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.12.1/Limen-0.11.0.dmg" length="4751284" type="application/octet-stream" sparkle:edSignature="+/BmHrnh4jRpySoQikushTFuvGGYfIFAekmZIUybEbdn6B1Y5RruOFoNFKFgpzeDkwUheF/+VXU5zf+TlOudCA=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.13.0/Limen-0.12.0.dmg" length="4885217" type="application/octet-stream" sparkle:edSignature="cmnHaSkwnQ35qSTRjtm8eszDxlTRBzXTyoEmle4uA+5LCSHod7ywDCjhm3RSuihivMhrn7Lyb91k0Qm/0cbuBQ=="/>
         </item>
     </channel>
 </rss>
