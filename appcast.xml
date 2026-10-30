@@ -3,6 +3,16 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
+            <title>0.15.1</title>
+            <pubDate>Fri, 30 Oct 2026 12:05:37 -0300</pubDate>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>0.15.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Extensão do Safari:** corrigido o erro "Unable to find icons/icon48.png" (os ícones da EdgePlayer Bridge não eram incluídos na pasta certa), que também deixava a extensão duplicada e difícil de remover.
+]]></description>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.15.1/Limen-0.15.1.dmg" length="5003220" type="application/octet-stream" sparkle:edSignature="0ay+yggErTTvwsJgVF88tCpMU8QcNpLBSZcyex4FDR4JQoejZ1EDwFP/LR14vLJXsXAbfYYVqp8i9QvajcIcCg=="/>
+        </item>
+        <item>
             <title>0.15.0</title>
             <pubDate>Thu, 29 Oct 2026 15:36:09 -0300</pubDate>
             <sparkle:version>31</sparkle:version>
@@ -11,7 +21,7 @@
             <description sparkle:format="markdown"><![CDATA[- **Stash, editor de imagens:** o botão "Editar" na prévia (também no menu de contexto, no quickview e em ⌘E) abre a imagem com a barra de ferramentas da Captura: setas, linha, formas, texto, marca-texto, tarja, pixelar e girar, com os mesmos atalhos. Dá para sobrescrever a imagem (⌘S), salvar como nova (⇧⌘S) ou copiar (⌘C). Esc cancela; com alterações, é preciso apertar Esc de novo para descartar.
 - **Stash, recorte:** o editor de imagens ganhou o botão Recortar (⌘K). Arraste as alças ou a área e confirme com ↩ (Esc sai do recorte). As marcações acompanham o novo enquadramento.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.15.0/Limen-0.15.0.dmg" length="5002236" type="application/octet-stream" sparkle:edSignature="d67rRHSJ7UgW0VIvxYkWM3ohNZDlgzk/3XQFSf4rhVxrCYc7zaBeZ2JDTagONvGxAePiayjzUql0x6b+jUAqDw=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.15.1/Limen-0.15.0.dmg" length="5002236" type="application/octet-stream" sparkle:edSignature="d67rRHSJ7UgW0VIvxYkWM3ohNZDlgzk/3XQFSf4rhVxrCYc7zaBeZ2JDTagONvGxAePiayjzUql0x6b+jUAqDw=="/>
         </item>
         <item>
             <title>0.14.0</title>
@@ -22,19 +32,7 @@
             <description sparkle:format="markdown"><![CDATA[- **Captura, ferramenta Linha:** nova ferramenta para traçar uma reta, sem ponta de seta (tecla L). Ela se move, gira e muda de tamanho arrastando as duas pontas, como a seta.
 - **Captura, atalhos da barra:** em Ajustes > Captura, "Atalhos da barra de ferramentas" permite trocar a tecla de cada ferramenta. Teclas repetidas são recusadas, e dá para restaurar uma ou todas.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.15.0/Limen-0.14.0.dmg" length="4905548" type="application/octet-stream" sparkle:edSignature="4JQLP/a1aQDKO0uY9uFaEhvzKbVYEcPowZR4zUXKm/0DzfHqb6N50lLMMqpFiKBEGrk74PD5UrTbue8+rE9KDA=="/>
-        </item>
-        <item>
-            <title>0.13.0</title>
-            <pubDate>Thu, 29 Oct 2026 09:46:47 -0300</pubDate>
-            <sparkle:version>29</sparkle:version>
-            <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- **Pomodoro, início por atividade:** novo ajuste "Iniciar as fases pela sua atividade". Terminado o foco, a pausa começa quando você para de mexer no mouse e no teclado (5 s por padrão, configurável). Terminada a pausa, o foco começa quando você volta a mexer. Inatividade no meio do foco não faz nada. Não pede permissão nova.
-- **Pomodoro, aviso na pausa:** se você mexer durante a pausa, uma pílula avisa que está em pausa e, com um clique, encerra a pausa e volta ao foco.
-- **Gaveta mais limpa:** o cabeçalho não tem mais os controles do Pomodoro nem o botão do Insomnio, só a música e as tarefas. Os dois continuam na barra de menus.
-]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.15.0/Limen-0.13.0.dmg" length="4880731" type="application/octet-stream" sparkle:edSignature="r55LBGN0htRpD3WB452ecT5lJ+Vr3sQtyymRtR5V81Ay+QjbQNxesDpbOc5nGaRs6H3Ppa1zZTeklFuaD2HfDQ=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.15.1/Limen-0.14.0.dmg" length="4905548" type="application/octet-stream" sparkle:edSignature="4JQLP/a1aQDKO0uY9uFaEhvzKbVYEcPowZR4zUXKm/0DzfHqb6N50lLMMqpFiKBEGrk74PD5UrTbue8+rE9KDA=="/>
         </item>
     </channel>
 </rss>
