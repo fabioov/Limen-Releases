@@ -3,6 +3,18 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
+            <title>0.16.3</title>
+            <pubDate>Sat, 31 Oct 2026 13:38:04 -0300</pubDate>
+            <sparkle:version>36</sparkle:version>
+            <sparkle:shortVersionString>0.16.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Símbolo do agente na barra de menus:** novo ajuste "Mostrar o símbolo do agente" (um por agente, ligado por padrão). O símbolo fica sempre ao lado do uso na barra de menus; desligado, só aparece com 2 ou mais agentes ou com o agente trabalhando.
+- **Tempo até reiniciar:** o ajuste agora vale também para o drawer e para o painel do item da barra. Desligado, o tempo some de todos os lugares.
+- **Barra de menus:** o item se redesenha na hora quando um ajuste muda.
+]]></description>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.3/Limen-0.16.3.dmg" length="5785416" type="application/octet-stream" sparkle:edSignature="cJyDa2IhQJBzl6G2HMrsRri5FwykeUcZbIcwZ/qQISNtz9m1DjwWvxHi/WW6fophZ44qS0n7a0lCHcIkI7wGCQ=="/>
+        </item>
+        <item>
             <title>0.16.2</title>
             <pubDate>Sat, 31 Oct 2026 13:14:04 -0300</pubDate>
             <sparkle:version>35</sparkle:version>
@@ -10,7 +22,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[- **Ajustes individuais por agente:** em Ajustes → Agentes, Claude Code, Codex e Gemini CLI passam a ter cada um o seu conjunto de ajustes (um seletor no topo escolhe o agente). Estilo na gaveta e na barra de menus, tempo até reiniciar, tokens, intervalo de atualização, seção na gaveta, selo, som, aviso de espera e aviso de limite (com os níveis) valem só para o agente escolhido. Dá para ver o Claude em círculos e o Codex em barras, por exemplo. O Codex e o Gemini CLI começam com o que valia para todos.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.2/Limen-0.16.2.dmg" length="5783258" type="application/octet-stream" sparkle:edSignature="hUopQ4lg4XedJEkL9PcduieqegZu2yE8CGY0NV+CbViToWb+qO4NO4qMzI2YhUVqY9KWkgO8az1huA92krSrBw=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.3/Limen-0.16.2.dmg" length="5783258" type="application/octet-stream" sparkle:edSignature="hUopQ4lg4XedJEkL9PcduieqegZu2yE8CGY0NV+CbViToWb+qO4NO4qMzI2YhUVqY9KWkgO8az1huA92krSrBw=="/>
         </item>
         <item>
             <title>0.16.1</title>
@@ -20,21 +32,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[- **Correção:** o Limen travava ao abrir (ou ao ligar "Mostrar na barra de menus" em Ajustes → Agentes) quando o item de um agente aparecia na barra de menus. Corrigido.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.2/Limen-0.16.1.dmg" length="5766330" type="application/octet-stream" sparkle:edSignature="MDYHp8x03HCtg6fxpKY0sR4Q/wPU9BzDsK+GxyP9KdblRc8ADkiGBOHA4ozydyDO8teKkTAvSnxkKb5Ch5kVAg=="/>
-        </item>
-        <item>
-            <title>0.16.0</title>
-            <pubDate>Sat, 31 Oct 2026 12:33:13 -0300</pubDate>
-            <sparkle:version>33</sparkle:version>
-            <sparkle:shortVersionString>0.16.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- **Agentes (Claude Code, Codex e Gemini CLI):** novo em Ajustes → Agentes. O Limen mostra o que cada agente está fazendo (trabalhando, esperando você ou ocioso) lendo os arquivos que eles já gravam, sem hooks nem API. Tudo é opcional e vem desligado.
-- **Uso e limites:** os percentuais da sessão (5 h) e da semana do Claude Code e do Codex, em círculos concêntricos (sessão por dentro, semana por fora) ou barras, com o horário de reinício, um traço que mostra o ritmo, a previsão de quando o limite acaba, um gráfico dos últimos 7 dias e, opcionalmente, os tokens de hoje. O Limen só lê o login que o próprio agente guarda e nunca o renova.
-- **Onde aparece:** num selo ao lado da marca da borda, numa seção da gaveta e num item da barra de menus por agente (texto, círculos ou compacto, com o tempo até reiniciar). O símbolo do agente pulsa na barra enquanto ele trabalha.
-- **Painel do item:** clicar no item da barra abre um painel (e não um menu, então o atalho de captura continua funcionando) com os limites, a conta e o plano, e as sessões; clicar numa sessão traz o terminal ou a janela dela à frente, inclusive se estiver minimizada.
-- **Avisos:** som ao terminar, aviso quando um agente espera você e aviso ao chegar a limites de uso que você escolhe (80/100, 50/80/100 e outros).
-]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.2/Limen-0.16.0.dmg" length="5765428" type="application/octet-stream" sparkle:edSignature="oxgsdTaJOJaS3X4IyCpErs+dEC72ni/GdxBSESgluMIWjgs+wjUl382Cp3IylntQMWRTS/2b7fN8SNP6ts6wAA=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.3/Limen-0.16.1.dmg" length="5766330" type="application/octet-stream" sparkle:edSignature="MDYHp8x03HCtg6fxpKY0sR4Q/wPU9BzDsK+GxyP9KdblRc8ADkiGBOHA4ozydyDO8teKkTAvSnxkKb5Ch5kVAg=="/>
         </item>
     </channel>
 </rss>
