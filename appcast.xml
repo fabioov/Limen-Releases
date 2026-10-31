@@ -3,6 +3,16 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
+            <title>0.16.5</title>
+            <pubDate>Sat, 31 Oct 2026 13:53:23 -0300</pubDate>
+            <sparkle:version>38</sparkle:version>
+            <sparkle:shortVersionString>0.16.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Barra de menus:** o item do Limen (ícone, Pomodoro, Insomnio e faixa tocando) não tem mais a moldura arredondada ao redor.
+]]></description>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.5/Limen-0.16.5.dmg" length="5786019" type="application/octet-stream" sparkle:edSignature="yg1zhUuE9xxK99ZASZub6RMcC2rfp8I5s3YOqxHzbN/Ew16QKs6j5s+Zi7EkywEbmXDCA2FmtvhsrbTHVuXXBw=="/>
+        </item>
+        <item>
             <title>0.16.4</title>
             <pubDate>Sat, 31 Oct 2026 13:48:21 -0300</pubDate>
             <sparkle:version>37</sparkle:version>
@@ -10,7 +20,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[- **Símbolo do agente na barra de menus:** o interruptor virou um seletor, um por agente: "Sempre" (padrão), "Só trabalhando" ou "Nunca". Quem tinha desligado o interruptor da versão anterior passa para "Só trabalhando".
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.4/Limen-0.16.4.dmg" length="5788492" type="application/octet-stream" sparkle:edSignature="vB+xSQrhvYlabv4v+ye7GYonrctyGMQ+fvzHdlUvZF7I8H+Nfm8AeT1AfmU2cE5WHysVv0hfWNJ4aKDFbKxhAg=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.5/Limen-0.16.4.dmg" length="5788492" type="application/octet-stream" sparkle:edSignature="vB+xSQrhvYlabv4v+ye7GYonrctyGMQ+fvzHdlUvZF7I8H+Nfm8AeT1AfmU2cE5WHysVv0hfWNJ4aKDFbKxhAg=="/>
         </item>
         <item>
             <title>0.16.3</title>
@@ -22,17 +32,7 @@
 - **Tempo até reiniciar:** o ajuste agora vale também para o drawer e para o painel do item da barra. Desligado, o tempo some de todos os lugares.
 - **Barra de menus:** o item se redesenha na hora quando um ajuste muda.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.4/Limen-0.16.3.dmg" length="5785416" type="application/octet-stream" sparkle:edSignature="cJyDa2IhQJBzl6G2HMrsRri5FwykeUcZbIcwZ/qQISNtz9m1DjwWvxHi/WW6fophZ44qS0n7a0lCHcIkI7wGCQ=="/>
-        </item>
-        <item>
-            <title>0.16.2</title>
-            <pubDate>Sat, 31 Oct 2026 13:14:04 -0300</pubDate>
-            <sparkle:version>35</sparkle:version>
-            <sparkle:shortVersionString>0.16.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- **Ajustes individuais por agente:** em Ajustes → Agentes, Claude Code, Codex e Gemini CLI passam a ter cada um o seu conjunto de ajustes (um seletor no topo escolhe o agente). Estilo na gaveta e na barra de menus, tempo até reiniciar, tokens, intervalo de atualização, seção na gaveta, selo, som, aviso de espera e aviso de limite (com os níveis) valem só para o agente escolhido. Dá para ver o Claude em círculos e o Codex em barras, por exemplo. O Codex e o Gemini CLI começam com o que valia para todos.
-]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.4/Limen-0.16.2.dmg" length="5783258" type="application/octet-stream" sparkle:edSignature="hUopQ4lg4XedJEkL9PcduieqegZu2yE8CGY0NV+CbViToWb+qO4NO4qMzI2YhUVqY9KWkgO8az1huA92krSrBw=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.5/Limen-0.16.3.dmg" length="5785416" type="application/octet-stream" sparkle:edSignature="cJyDa2IhQJBzl6G2HMrsRri5FwykeUcZbIcwZ/qQISNtz9m1DjwWvxHi/WW6fophZ44qS0n7a0lCHcIkI7wGCQ=="/>
         </item>
     </channel>
 </rss>
