@@ -3,6 +3,16 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
+            <title>0.16.1</title>
+            <pubDate>Sat, 31 Oct 2026 12:43:29 -0300</pubDate>
+            <sparkle:version>34</sparkle:version>
+            <sparkle:shortVersionString>0.16.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Correção:** o Limen travava ao abrir (ou ao ligar "Mostrar na barra de menus" em Ajustes → Agentes) quando o item de um agente aparecia na barra de menus. Corrigido.
+]]></description>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.1/Limen-0.16.1.dmg" length="5766330" type="application/octet-stream" sparkle:edSignature="MDYHp8x03HCtg6fxpKY0sR4Q/wPU9BzDsK+GxyP9KdblRc8ADkiGBOHA4ozydyDO8teKkTAvSnxkKb5Ch5kVAg=="/>
+        </item>
+        <item>
             <title>0.16.0</title>
             <pubDate>Sat, 31 Oct 2026 12:33:13 -0300</pubDate>
             <sparkle:version>33</sparkle:version>
@@ -14,7 +24,7 @@
 - **Painel do item:** clicar no item da barra abre um painel (e não um menu, então o atalho de captura continua funcionando) com os limites, a conta e o plano, e as sessões; clicar numa sessão traz o terminal ou a janela dela à frente, inclusive se estiver minimizada.
 - **Avisos:** som ao terminar, aviso quando um agente espera você e aviso ao chegar a limites de uso que você escolhe (80/100, 50/80/100 e outros).
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.0/Limen-0.16.0.dmg" length="5765428" type="application/octet-stream" sparkle:edSignature="oxgsdTaJOJaS3X4IyCpErs+dEC72ni/GdxBSESgluMIWjgs+wjUl382Cp3IylntQMWRTS/2b7fN8SNP6ts6wAA=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.1/Limen-0.16.0.dmg" length="5765428" type="application/octet-stream" sparkle:edSignature="oxgsdTaJOJaS3X4IyCpErs+dEC72ni/GdxBSESgluMIWjgs+wjUl382Cp3IylntQMWRTS/2b7fN8SNP6ts6wAA=="/>
         </item>
         <item>
             <title>0.15.1</title>
@@ -24,18 +34,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[- **Extensão do Safari:** corrigido o erro "Unable to find icons/icon48.png" (os ícones da EdgePlayer Bridge não eram incluídos na pasta certa), que também deixava a extensão duplicada e difícil de remover.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.0/Limen-0.15.1.dmg" length="5003220" type="application/octet-stream" sparkle:edSignature="0ay+yggErTTvwsJgVF88tCpMU8QcNpLBSZcyex4FDR4JQoejZ1EDwFP/LR14vLJXsXAbfYYVqp8i9QvajcIcCg=="/>
-        </item>
-        <item>
-            <title>0.15.0</title>
-            <pubDate>Thu, 29 Oct 2026 15:36:09 -0300</pubDate>
-            <sparkle:version>31</sparkle:version>
-            <sparkle:shortVersionString>0.15.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- **Stash, editor de imagens:** o botão "Editar" na prévia (também no menu de contexto, no quickview e em ⌘E) abre a imagem com a barra de ferramentas da Captura: setas, linha, formas, texto, marca-texto, tarja, pixelar e girar, com os mesmos atalhos. Dá para sobrescrever a imagem (⌘S), salvar como nova (⇧⌘S) ou copiar (⌘C). Esc cancela; com alterações, é preciso apertar Esc de novo para descartar.
-- **Stash, recorte:** o editor de imagens ganhou o botão Recortar (⌘K). Arraste as alças ou a área e confirme com ↩ (Esc sai do recorte). As marcações acompanham o novo enquadramento.
-]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.0/Limen-0.15.0.dmg" length="5002236" type="application/octet-stream" sparkle:edSignature="d67rRHSJ7UgW0VIvxYkWM3ohNZDlgzk/3XQFSf4rhVxrCYc7zaBeZ2JDTagONvGxAePiayjzUql0x6b+jUAqDw=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.1/Limen-0.15.1.dmg" length="5003220" type="application/octet-stream" sparkle:edSignature="0ay+yggErTTvwsJgVF88tCpMU8QcNpLBSZcyex4FDR4JQoejZ1EDwFP/LR14vLJXsXAbfYYVqp8i9QvajcIcCg=="/>
         </item>
     </channel>
 </rss>
