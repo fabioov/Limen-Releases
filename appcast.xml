@@ -3,6 +3,17 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
+            <title>0.16.11</title>
+            <pubDate>Tue, 03 Nov 2026 20:46:08 -0300</pubDate>
+            <sparkle:version>44</sparkle:version>
+            <sparkle:shortVersionString>0.16.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Antigravity:** novo agente em Ajustes → Agentes. O Limen acompanha as conversas do Antigravity (trabalhando, esperando você ou ociosa) com o título de cada uma, usa o ícone do próprio app e mostra a cota por modelo em círculos, como no Claude Code e no Codex (lida do servidor local do app, só com ele aberto). Desligado por padrão.
+- **Gemini CLI:** removido dos agentes. Ficam o Claude Code, o Codex e o Antigravity.
+]]></description>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.11/Limen-0.16.11.dmg" length="5826680" type="application/octet-stream" sparkle:edSignature="un+srar3PDeyuKX7mJMVuvyTZX09R76CsZHnYukFTJU0Y5bRMq5ws/EJ7XIkGs8JoD0roG8B/6PBn4Png1XlCQ=="/>
+        </item>
+        <item>
             <title>0.16.10</title>
             <pubDate>Tue, 03 Nov 2026 20:06:05 -0300</pubDate>
             <sparkle:version>43</sparkle:version>
@@ -11,7 +22,7 @@
             <description sparkle:format="markdown"><![CDATA[- **Atalhos globais:** corrigido o atalho do Capture e do Vitral que às vezes não respondia até abrir os Ajustes. Se o registro de um atalho falhava, o Limen não tentava de novo. Agora ele refaz os atalhos ao voltar ao app, ao acordar o Mac, ao desbloquear a tela e a cada 30 s enquanto algum estiver com falha.
 - **Claude Code:** o aviso de senha do Keychain, que volta quando o Claude Code renova o login, agora é explicado nos Ajustes do agente.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.10/Limen-0.16.10.dmg" length="5794461" type="application/octet-stream" sparkle:edSignature="dTeMvpTyAwl8Ra2Qr1y7OWARAQWYUIioWKC/KZeUSEgF0ZbV4KwprwBm6gFOSu3Nd3XoEoHVrvuruAEZDJu1AQ=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.11/Limen-0.16.10.dmg" length="5794461" type="application/octet-stream" sparkle:edSignature="dTeMvpTyAwl8Ra2Qr1y7OWARAQWYUIioWKC/KZeUSEgF0ZbV4KwprwBm6gFOSu3Nd3XoEoHVrvuruAEZDJu1AQ=="/>
         </item>
         <item>
             <title>0.16.9</title>
@@ -21,17 +32,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[- **Agentes:** removida a opção "Mostrar um selo ao lado da marca da borda" dos ajustes de cada agente. O tempo do aviso de término continua nos ajustes.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.10/Limen-0.16.9.dmg" length="5792559" type="application/octet-stream" sparkle:edSignature="aO576E79mHYN2i50lL9jJny3Z+K97VvEbbVY3y17fl9TkfZWL19OfOoUytuY8Q0CYw44RQ+myM1gzXTP/ZQTAA=="/>
-        </item>
-        <item>
-            <title>0.16.8</title>
-            <pubDate>Tue, 03 Nov 2026 10:02:11 -0300</pubDate>
-            <sparkle:version>41</sparkle:version>
-            <sparkle:shortVersionString>0.16.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- **Agentes:** clicar numa sessão do Codex no painel agora traz o app para a frente (antes o macOS ignorava o pedido de ativação).
-]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.10/Limen-0.16.8.dmg" length="5794191" type="application/octet-stream" sparkle:edSignature="oA9EUThlAxc0xQTFSArTw5qBqafV1TQohnZ7k6XSpSyNXi6891hwIf+2rkToqpJkQdnixhyqRLe5akFZAjTEDw=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.11/Limen-0.16.9.dmg" length="5792559" type="application/octet-stream" sparkle:edSignature="aO576E79mHYN2i50lL9jJny3Z+K97VvEbbVY3y17fl9TkfZWL19OfOoUytuY8Q0CYw44RQ+myM1gzXTP/ZQTAA=="/>
         </item>
     </channel>
 </rss>
