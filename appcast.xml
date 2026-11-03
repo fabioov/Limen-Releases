@@ -3,6 +3,16 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
+            <title>0.16.7</title>
+            <pubDate>Tue, 03 Nov 2026 09:23:24 -0300</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>0.16.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Claude Code:** o Limen deixou de abrir o aviso de acesso ao Keychain várias vezes. Agora só lê o login do Claude Code quando ele é renovado e não usa mais o plano B pelo `security`, que gerava um segundo aviso.
+]]></description>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.7/Limen-0.16.7.dmg" length="5797851" type="application/octet-stream" sparkle:edSignature="7pz6uN9CRVnCqIvKNm5qzEaEyuAtDcciBrpghjQByBFKoWGf1fXGdG3a5jB/t/L0cqVZSLY7aF5yxjoJXKL2DQ=="/>
+        </item>
+        <item>
             <title>0.16.6</title>
             <pubDate>Sat, 31 Oct 2026 14:10:59 -0300</pubDate>
             <sparkle:version>39</sparkle:version>
@@ -10,7 +20,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[- **Barra de menus:** o painel do agente agora fecha ao clicar fora dele ou em outra janela.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.6/Limen-0.16.6.dmg" length="5791934" type="application/octet-stream" sparkle:edSignature="Hd8sZvRq7snx5jN2U5XJd/rM9vlMlRFQ46KWmMbOJw4nvb5AYSfoYPoaEjZ2uihwsVzrF99I7JQa94MlDwSnDw=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.7/Limen-0.16.6.dmg" length="5791934" type="application/octet-stream" sparkle:edSignature="Hd8sZvRq7snx5jN2U5XJd/rM9vlMlRFQ46KWmMbOJw4nvb5AYSfoYPoaEjZ2uihwsVzrF99I7JQa94MlDwSnDw=="/>
         </item>
         <item>
             <title>0.16.5</title>
@@ -20,17 +30,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[- **Barra de menus:** o item do Limen (ícone, Pomodoro, Insomnio e faixa tocando) não tem mais a moldura arredondada ao redor.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.6/Limen-0.16.5.dmg" length="5786019" type="application/octet-stream" sparkle:edSignature="yg1zhUuE9xxK99ZASZub6RMcC2rfp8I5s3YOqxHzbN/Ew16QKs6j5s+Zi7EkywEbmXDCA2FmtvhsrbTHVuXXBw=="/>
-        </item>
-        <item>
-            <title>0.16.4</title>
-            <pubDate>Sat, 31 Oct 2026 13:48:21 -0300</pubDate>
-            <sparkle:version>37</sparkle:version>
-            <sparkle:shortVersionString>0.16.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- **Símbolo do agente na barra de menus:** o interruptor virou um seletor, um por agente: "Sempre" (padrão), "Só trabalhando" ou "Nunca". Quem tinha desligado o interruptor da versão anterior passa para "Só trabalhando".
-]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.6/Limen-0.16.4.dmg" length="5788492" type="application/octet-stream" sparkle:edSignature="vB+xSQrhvYlabv4v+ye7GYonrctyGMQ+fvzHdlUvZF7I8H+Nfm8AeT1AfmU2cE5WHysVv0hfWNJ4aKDFbKxhAg=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.7/Limen-0.16.5.dmg" length="5786019" type="application/octet-stream" sparkle:edSignature="yg1zhUuE9xxK99ZASZub6RMcC2rfp8I5s3YOqxHzbN/Ew16QKs6j5s+Zi7EkywEbmXDCA2FmtvhsrbTHVuXXBw=="/>
         </item>
     </channel>
 </rss>
