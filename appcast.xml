@@ -3,6 +3,16 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
+            <title>0.16.9</title>
+            <pubDate>Tue, 03 Nov 2026 10:05:25 -0300</pubDate>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>0.16.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Agentes:** removida a opção "Mostrar um selo ao lado da marca da borda" dos ajustes de cada agente. O tempo do aviso de término continua nos ajustes.
+]]></description>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.9/Limen-0.16.9.dmg" length="5792559" type="application/octet-stream" sparkle:edSignature="aO576E79mHYN2i50lL9jJny3Z+K97VvEbbVY3y17fl9TkfZWL19OfOoUytuY8Q0CYw44RQ+myM1gzXTP/ZQTAA=="/>
+        </item>
+        <item>
             <title>0.16.8</title>
             <pubDate>Tue, 03 Nov 2026 10:02:11 -0300</pubDate>
             <sparkle:version>41</sparkle:version>
@@ -10,7 +20,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[- **Agentes:** clicar numa sessão do Codex no painel agora traz o app para a frente (antes o macOS ignorava o pedido de ativação).
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.8/Limen-0.16.8.dmg" length="5794191" type="application/octet-stream" sparkle:edSignature="oA9EUThlAxc0xQTFSArTw5qBqafV1TQohnZ7k6XSpSyNXi6891hwIf+2rkToqpJkQdnixhyqRLe5akFZAjTEDw=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.9/Limen-0.16.8.dmg" length="5794191" type="application/octet-stream" sparkle:edSignature="oA9EUThlAxc0xQTFSArTw5qBqafV1TQohnZ7k6XSpSyNXi6891hwIf+2rkToqpJkQdnixhyqRLe5akFZAjTEDw=="/>
         </item>
         <item>
             <title>0.16.7</title>
@@ -20,17 +30,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[- **Claude Code:** o Limen deixou de abrir o aviso de acesso ao Keychain várias vezes. Agora só lê o login do Claude Code quando ele é renovado e não usa mais o plano B pelo `security`, que gerava um segundo aviso.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.8/Limen-0.16.7.dmg" length="5797851" type="application/octet-stream" sparkle:edSignature="7pz6uN9CRVnCqIvKNm5qzEaEyuAtDcciBrpghjQByBFKoWGf1fXGdG3a5jB/t/L0cqVZSLY7aF5yxjoJXKL2DQ=="/>
-        </item>
-        <item>
-            <title>0.16.6</title>
-            <pubDate>Sat, 31 Oct 2026 14:10:59 -0300</pubDate>
-            <sparkle:version>39</sparkle:version>
-            <sparkle:shortVersionString>0.16.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- **Barra de menus:** o painel do agente agora fecha ao clicar fora dele ou em outra janela.
-]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.8/Limen-0.16.6.dmg" length="5791934" type="application/octet-stream" sparkle:edSignature="Hd8sZvRq7snx5jN2U5XJd/rM9vlMlRFQ46KWmMbOJw4nvb5AYSfoYPoaEjZ2uihwsVzrF99I7JQa94MlDwSnDw=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.9/Limen-0.16.7.dmg" length="5797851" type="application/octet-stream" sparkle:edSignature="7pz6uN9CRVnCqIvKNm5qzEaEyuAtDcciBrpghjQByBFKoWGf1fXGdG3a5jB/t/L0cqVZSLY7aF5yxjoJXKL2DQ=="/>
         </item>
     </channel>
 </rss>
