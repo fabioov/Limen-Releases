@@ -3,6 +3,18 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
+            <title>0.17.0</title>
+            <pubDate>Wed, 04 Nov 2026 11:27:50 -0300</pubDate>
+            <sparkle:version>46</sparkle:version>
+            <sparkle:shortVersionString>0.17.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Licença:** o Limen passa a ter teste grátis de 14 dias e compra única. Quem comprar recebe a chave por e-mail e ativa em Ajustes → Licença (ou pelo botão "Abrir no Limen" da página de compra). A licença vale em até 3 Macs (a primeira ativação precisa de internet; depois o app funciona offline, e "Remover licença deste Mac…" libera a vaga) e cobre todas as versões 1.x.
+- **Reembolsos:** o app confere uma vez por dia se a licença foi reembolsada; sem internet, ele continua funcionando normalmente.
+- **Suporte:** o contato passa a ser support@limenmac.com.
+]]></description>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.17.0/Limen-0.17.0.dmg" length="5898058" type="application/octet-stream" sparkle:edSignature="h1t1hNToTB5zKoAEMmGjtCpKA+T1D3Rv32GB05ve7cm0gy0h3GBBO9M/EaZ/YwqdFl59hqdxFGA+DqI7kEDxCg=="/>
+        </item>
+        <item>
             <title>0.16.12</title>
             <pubDate>Tue, 03 Nov 2026 21:10:26 -0300</pubDate>
             <sparkle:version>45</sparkle:version>
@@ -10,7 +22,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[- **Cursor:** novo agente em Ajustes → Agentes. O Limen acompanha as conversas do agente do Cursor (trabalhando, esperando você ou ociosa) com o título de cada uma, usa o ícone do próprio app e mostra o uso do ciclo mensal em círculo, como nos outros agentes. Desligado por padrão.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.12/Limen-0.16.12.dmg" length="5875508" type="application/octet-stream" sparkle:edSignature="iaqGKJRJQhAK+O5gYjxHds0vOtKnXL9loPDLHMIwOg0bJrARka+Iao9mtNXCJg+SNSgq3U2crmiMEYI1wjEOAw=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.17.0/Limen-0.16.12.dmg" length="5875508" type="application/octet-stream" sparkle:edSignature="iaqGKJRJQhAK+O5gYjxHds0vOtKnXL9loPDLHMIwOg0bJrARka+Iao9mtNXCJg+SNSgq3U2crmiMEYI1wjEOAw=="/>
         </item>
         <item>
             <title>0.16.11</title>
@@ -21,18 +33,7 @@
             <description sparkle:format="markdown"><![CDATA[- **Antigravity:** novo agente em Ajustes → Agentes. O Limen acompanha as conversas do Antigravity (trabalhando, esperando você ou ociosa) com o título de cada uma, usa o ícone do próprio app e mostra a cota por modelo em círculos, como no Claude Code e no Codex (lida do servidor local do app, só com ele aberto). Desligado por padrão.
 - **Gemini CLI:** removido dos agentes. Ficam o Claude Code, o Codex e o Antigravity.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.12/Limen-0.16.11.dmg" length="5826680" type="application/octet-stream" sparkle:edSignature="un+srar3PDeyuKX7mJMVuvyTZX09R76CsZHnYukFTJU0Y5bRMq5ws/EJ7XIkGs8JoD0roG8B/6PBn4Png1XlCQ=="/>
-        </item>
-        <item>
-            <title>0.16.10</title>
-            <pubDate>Tue, 03 Nov 2026 20:06:05 -0300</pubDate>
-            <sparkle:version>43</sparkle:version>
-            <sparkle:shortVersionString>0.16.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- **Atalhos globais:** corrigido o atalho do Capture e do Vitral que às vezes não respondia até abrir os Ajustes. Se o registro de um atalho falhava, o Limen não tentava de novo. Agora ele refaz os atalhos ao voltar ao app, ao acordar o Mac, ao desbloquear a tela e a cada 30 s enquanto algum estiver com falha.
-- **Claude Code:** o aviso de senha do Keychain, que volta quando o Claude Code renova o login, agora é explicado nos Ajustes do agente.
-]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.16.12/Limen-0.16.10.dmg" length="5794461" type="application/octet-stream" sparkle:edSignature="dTeMvpTyAwl8Ra2Qr1y7OWARAQWYUIioWKC/KZeUSEgF0ZbV4KwprwBm6gFOSu3Nd3XoEoHVrvuruAEZDJu1AQ=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.17.0/Limen-0.16.11.dmg" length="5826680" type="application/octet-stream" sparkle:edSignature="un+srar3PDeyuKX7mJMVuvyTZX09R76CsZHnYukFTJU0Y5bRMq5ws/EJ7XIkGs8JoD0roG8B/6PBn4Png1XlCQ=="/>
         </item>
     </channel>
 </rss>
