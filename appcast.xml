@@ -3,6 +3,16 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
+            <title>0.17.3</title>
+            <pubDate>Wed, 04 Nov 2026 16:04:55 -0300</pubDate>
+            <sparkle:version>49</sparkle:version>
+            <sparkle:shortVersionString>0.17.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Sem pedir a senha do Keychain toda hora:** o Limen passou a ler o uso do Claude Code sem abrir o aviso "Limen quer acessar a chave Claude Code-credentials", mesmo depois de o Claude Code renovar o token.
+]]></description>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.17.3/Limen-0.17.3.dmg" length="5908988" type="application/octet-stream" sparkle:edSignature="DFnHQ9yH9sPUWcZAj754GpYSZ/oxHMqTuvoBBXBfj4BXdBTk90/iHFRFzxGNh7y5lHNt9TssF7YRgwgEuSxsBw=="/>
+        </item>
+        <item>
             <title>0.17.2</title>
             <pubDate>Wed, 04 Nov 2026 11:45:50 -0300</pubDate>
             <sparkle:version>48</sparkle:version>
@@ -11,7 +21,7 @@
             <description sparkle:format="markdown"><![CDATA[- **Revogação mais confiável:** a consulta da lista de licenças revogadas agora ignora o cache do sistema e tenta de novo se a rede ainda não estiver pronta na abertura do app.
 - **Recuperar chave:** a página de compra funciona também por `limenmac.com` e `www.limenmac.com`.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.17.2/Limen-0.17.2.dmg" length="5907500" type="application/octet-stream" sparkle:edSignature="LvI/QV9LtL27gbnF8egJOisPBTmkAdceb4+7GU2H7zGca0ll5hSMwHMQGobmg3eyv7WadDev7TwgczrDoEyoAQ=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.17.3/Limen-0.17.2.dmg" length="5907500" type="application/octet-stream" sparkle:edSignature="LvI/QV9LtL27gbnF8egJOisPBTmkAdceb4+7GU2H7zGca0ll5hSMwHMQGobmg3eyv7WadDev7TwgczrDoEyoAQ=="/>
         </item>
         <item>
             <title>0.17.1</title>
@@ -21,19 +31,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[- **Licença reativada vale logo:** quando uma licença é revogada e depois reativada, o Limen agora percebe em poucos minutos, ao voltar para o app, em vez de esperar até 1 dia. Reativar pela tela de licença também deixou de ser recusado por uma lista antiga guardada no Mac.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.17.2/Limen-0.17.1.dmg" length="5903010" type="application/octet-stream" sparkle:edSignature="jSDtj9FLAUsriCsjkCGGDP+HBsctpYeYFR9fyPAEsRUHHDn9EaLan+NiR1rKiRrGX0Ebx8UDpHiEQniL3YCtDA=="/>
-        </item>
-        <item>
-            <title>0.17.0</title>
-            <pubDate>Wed, 04 Nov 2026 11:27:50 -0300</pubDate>
-            <sparkle:version>46</sparkle:version>
-            <sparkle:shortVersionString>0.17.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- **Licença:** o Limen passa a ter teste grátis de 14 dias e compra única. Quem comprar recebe a chave por e-mail e ativa em Ajustes → Licença (ou pelo botão "Abrir no Limen" da página de compra). A licença vale em até 3 Macs (a primeira ativação precisa de internet; depois o app funciona offline, e "Remover licença deste Mac…" libera a vaga) e cobre todas as versões 1.x.
-- **Reembolsos:** o app confere uma vez por dia se a licença foi reembolsada; sem internet, ele continua funcionando normalmente.
-- **Suporte:** o contato passa a ser support@limenmac.com.
-]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.17.2/Limen-0.17.0.dmg" length="5898058" type="application/octet-stream" sparkle:edSignature="h1t1hNToTB5zKoAEMmGjtCpKA+T1D3Rv32GB05ve7cm0gy0h3GBBO9M/EaZ/YwqdFl59hqdxFGA+DqI7kEDxCg=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.17.3/Limen-0.17.1.dmg" length="5903010" type="application/octet-stream" sparkle:edSignature="jSDtj9FLAUsriCsjkCGGDP+HBsctpYeYFR9fyPAEsRUHHDn9EaLan+NiR1rKiRrGX0Ebx8UDpHiEQniL3YCtDA=="/>
         </item>
     </channel>
 </rss>
