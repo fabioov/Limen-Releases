@@ -3,6 +3,17 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
+            <title>0.19.0</title>
+            <pubDate>Wed, 11 Nov 2026 21:12:03 -0300</pubDate>
+            <sparkle:version>51</sparkle:version>
+            <sparkle:shortVersionString>0.19.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Agenda de tarefas:** novo modo "Agenda" na seção de tarefas (gaveta e popover da barra de menus). As tarefas aparecem agrupadas por dia, com um chip dizendo quantos dias faltam ("hoje", "amanhã", "5 dias", "há 2 dias"). Atrasadas e sem data ganham grupos próprios.
+- **Escolher data:** no menu de contexto da tarefa, Data › Escolher data… abre um calendário dentro da própria seção para marcar qualquer dia.
+]]></description>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.19.0/Limen-0.19.0.dmg" length="6102417" type="application/octet-stream" sparkle:edSignature="RHWtZc6XBNUE6iaWH447vSpq4ygooWTxGIiAhK0UtzAwNUEALxACgRnyOwnYFnCITo4N5+CCDnXabcOyAgVrBg=="/>
+        </item>
+        <item>
             <title>0.18.0</title>
             <pubDate>Thu, 05 Nov 2026 09:34:51 -0300</pubDate>
             <sparkle:version>50</sparkle:version>
@@ -23,17 +34,6 @@
             <description sparkle:format="markdown"><![CDATA[- **Sem pedir a senha do Keychain toda hora:** o Limen passou a ler o uso do Claude Code sem abrir o aviso "Limen quer acessar a chave Claude Code-credentials", mesmo depois de o Claude Code renovar o token.
 ]]></description>
             <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.18.0/Limen-0.17.3.dmg" length="5908988" type="application/octet-stream" sparkle:edSignature="DFnHQ9yH9sPUWcZAj754GpYSZ/oxHMqTuvoBBXBfj4BXdBTk90/iHFRFzxGNh7y5lHNt9TssF7YRgwgEuSxsBw=="/>
-        </item>
-        <item>
-            <title>0.17.2</title>
-            <pubDate>Wed, 04 Nov 2026 11:45:50 -0300</pubDate>
-            <sparkle:version>48</sparkle:version>
-            <sparkle:shortVersionString>0.17.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- **Revogação mais confiável:** a consulta da lista de licenças revogadas agora ignora o cache do sistema e tenta de novo se a rede ainda não estiver pronta na abertura do app.
-- **Recuperar chave:** a página de compra funciona também por `limenmac.com` e `www.limenmac.com`.
-]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.18.0/Limen-0.17.2.dmg" length="5907500" type="application/octet-stream" sparkle:edSignature="LvI/QV9LtL27gbnF8egJOisPBTmkAdceb4+7GU2H7zGca0ll5hSMwHMQGobmg3eyv7WadDev7TwgczrDoEyoAQ=="/>
         </item>
     </channel>
 </rss>
