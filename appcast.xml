@@ -3,6 +3,20 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
+            <title>0.20.0</title>
+            <pubDate>Sat, 14 Nov 2026 12:30:22 -0300</pubDate>
+            <sparkle:version>54</sparkle:version>
+            <sparkle:shortVersionString>0.20.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Ícones na borda:** a marca sutil da borda agora expande, ao passar o mouse, numa fileira de ícones de vidro: Pomodoro, Insomnio, Player, Tarefas e os agentes (Claude Code, Codex, Cursor e Antigravity). Passar o mouse num ícone abre só o painel dele; clicar fixa o painel (clicar de novo, ou fora, fecha). Funciona nas quatro bordas e resolve o menubar escondido pelo notch.
+- **Escolha onde ver cada item:** em Ajustes › Borda › Ícones, cada item tem dois interruptores, Borda e Menubar. Também há um "Mostrar na borda" na página de cada recurso. Tarefas e Player vêm ligados na borda por padrão.
+- **A gaveta saiu:** encostar na borda não abre mais a gaveta; players, tarefas e agentes agora vivem nos ícones da borda. O atalho que abria a gaveta passou a expandir os ícones. As teclas 1 a 9 do card e o aviso "Teste · N d" da gaveta deixaram de existir.
+- **Fim do teste:** com o teste expirado, qualquer ícone abre o cartão de compra da licença.
+- **Boas-vindas:** a primeira tela foi reescrita para a marca e os ícones da borda.
+]]></description>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.20.0/Limen-0.20.0.dmg" length="6012739" type="application/octet-stream" sparkle:edSignature="6uui8QJnLFyIX/UwwL1+gxiwLnK1ka2sYqftXi1MPBiH5Jjqn+EKCL3TjP13/NDvA5JzQbZ9oc/smDzT3VvODg=="/>
+        </item>
+        <item>
             <title>0.19.2</title>
             <pubDate>Thu, 12 Nov 2026 10:49:22 -0300</pubDate>
             <sparkle:version>53</sparkle:version>
@@ -10,7 +24,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[- **Tarefas:** o seletor Agenda | Lista ganhou o visual de cápsula de vidro do macOS 26 (com fallback para versões anteriores) e a linha em cima do painel da barra de menus foi removida.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.19.2/Limen-0.19.2.dmg" length="6127436" type="application/octet-stream" sparkle:edSignature="sPSVlh+CKC81GM9wZg4vpvWfvosHcIFWPT1oUsxhjgnNzv2jf4+m5KnELveK/5WOAQs7NYxbHor22DaTcAAXCQ=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.20.0/Limen-0.19.2.dmg" length="6127436" type="application/octet-stream" sparkle:edSignature="sPSVlh+CKC81GM9wZg4vpvWfvosHcIFWPT1oUsxhjgnNzv2jf4+m5KnELveK/5WOAQs7NYxbHor22DaTcAAXCQ=="/>
         </item>
         <item>
             <title>0.19.1</title>
@@ -20,18 +34,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[- **Stash:** o painel agora abre com o cursor no campo de busca, sem precisar clicar para digitar.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.19.2/Limen-0.19.1.dmg" length="6104586" type="application/octet-stream" sparkle:edSignature="RmBbrECOVL41sIQcjT6hSB2CqUvBxgJjWCmXtiQDSa6247m6EJE+GzcZGZ4o59VFd01hZN2XZhcPXHJPJXhBAQ=="/>
-        </item>
-        <item>
-            <title>0.19.0</title>
-            <pubDate>Wed, 11 Nov 2026 21:12:03 -0300</pubDate>
-            <sparkle:version>51</sparkle:version>
-            <sparkle:shortVersionString>0.19.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- **Agenda de tarefas:** novo modo "Agenda" na seção de tarefas (gaveta e popover da barra de menus). As tarefas aparecem agrupadas por dia, com um chip dizendo quantos dias faltam ("hoje", "amanhã", "5 dias", "há 2 dias"). Atrasadas e sem data ganham grupos próprios.
-- **Escolher data:** no menu de contexto da tarefa, Data › Escolher data… abre um calendário dentro da própria seção para marcar qualquer dia.
-]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.19.2/Limen-0.19.0.dmg" length="6102417" type="application/octet-stream" sparkle:edSignature="RHWtZc6XBNUE6iaWH447vSpq4ygooWTxGIiAhK0UtzAwNUEALxACgRnyOwnYFnCITo4N5+CCDnXabcOyAgVrBg=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.20.0/Limen-0.19.1.dmg" length="6104586" type="application/octet-stream" sparkle:edSignature="RmBbrECOVL41sIQcjT6hSB2CqUvBxgJjWCmXtiQDSa6247m6EJE+GzcZGZ4o59VFd01hZN2XZhcPXHJPJXhBAQ=="/>
         </item>
     </channel>
 </rss>
