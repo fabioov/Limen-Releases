@@ -3,6 +3,18 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
+            <title>0.21.0</title>
+            <pubDate>Mon, 16 Nov 2026 10:41:16 -0300</pubDate>
+            <sparkle:version>55</sparkle:version>
+            <sparkle:shortVersionString>0.21.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Horário nas tarefas:** em "Definir horário…" (menu da tarefa) ou em "Escolher data…" você agora define a hora da tarefa, além do dia.
+- **Lembrete na hora:** ligue "Lembrar" e a tarefa ganha um alarme nos Lembretes da Apple, que avisa no Mac e no iPhone na hora marcada, mesmo com o Limen fechado. Um sino aparece na linha das tarefas com lembrete; o menu tem "Lembrar na hora" e "Tirar lembrete".
+- **Hora preservada:** mudar o dia da tarefa ("Hoje", "Amanhã" ou pelo calendário) não apaga mais a hora nem o lembrete.
+]]></description>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.21.0/Limen-0.21.0.dmg" length="6038445" type="application/octet-stream" sparkle:edSignature="6Ug47zNvMKDdvvCRvzdfT13zg6XjP8wT94cTgCdJ3shTP5fsGFJxFV/HZ7L75ac3RSMGvmYQaDNpAfLfd0hXCw=="/>
+        </item>
+        <item>
             <title>0.20.0</title>
             <pubDate>Sat, 14 Nov 2026 12:30:22 -0300</pubDate>
             <sparkle:version>54</sparkle:version>
@@ -14,7 +26,7 @@
 - **Fim do teste:** com o teste expirado, qualquer ícone abre o cartão de compra da licença.
 - **Boas-vindas:** a primeira tela foi reescrita para a marca e os ícones da borda.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.20.0/Limen-0.20.0.dmg" length="6012739" type="application/octet-stream" sparkle:edSignature="6uui8QJnLFyIX/UwwL1+gxiwLnK1ka2sYqftXi1MPBiH5Jjqn+EKCL3TjP13/NDvA5JzQbZ9oc/smDzT3VvODg=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.21.0/Limen-0.20.0.dmg" length="6012739" type="application/octet-stream" sparkle:edSignature="6uui8QJnLFyIX/UwwL1+gxiwLnK1ka2sYqftXi1MPBiH5Jjqn+EKCL3TjP13/NDvA5JzQbZ9oc/smDzT3VvODg=="/>
         </item>
         <item>
             <title>0.19.2</title>
@@ -24,17 +36,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[- **Tarefas:** o seletor Agenda | Lista ganhou o visual de cápsula de vidro do macOS 26 (com fallback para versões anteriores) e a linha em cima do painel da barra de menus foi removida.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.20.0/Limen-0.19.2.dmg" length="6127436" type="application/octet-stream" sparkle:edSignature="sPSVlh+CKC81GM9wZg4vpvWfvosHcIFWPT1oUsxhjgnNzv2jf4+m5KnELveK/5WOAQs7NYxbHor22DaTcAAXCQ=="/>
-        </item>
-        <item>
-            <title>0.19.1</title>
-            <pubDate>Thu, 12 Nov 2026 09:29:00 -0300</pubDate>
-            <sparkle:version>52</sparkle:version>
-            <sparkle:shortVersionString>0.19.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- **Stash:** o painel agora abre com o cursor no campo de busca, sem precisar clicar para digitar.
-]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.20.0/Limen-0.19.1.dmg" length="6104586" type="application/octet-stream" sparkle:edSignature="RmBbrECOVL41sIQcjT6hSB2CqUvBxgJjWCmXtiQDSa6247m6EJE+GzcZGZ4o59VFd01hZN2XZhcPXHJPJXhBAQ=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.21.0/Limen-0.19.2.dmg" length="6127436" type="application/octet-stream" sparkle:edSignature="sPSVlh+CKC81GM9wZg4vpvWfvosHcIFWPT1oUsxhjgnNzv2jf4+m5KnELveK/5WOAQs7NYxbHor22DaTcAAXCQ=="/>
         </item>
     </channel>
 </rss>
