@@ -3,6 +3,18 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
+            <title>0.22.2</title>
+            <pubDate>Mon, 16 Nov 2026 17:37:51 -0300</pubDate>
+            <sparkle:version>59</sparkle:version>
+            <sparkle:shortVersionString>0.22.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Consumo no contorno do ícone:** os ícones dos agentes (Claude, Codex, Cursor, Antigravity) mostram o consumo em volta do chip: a sessão na borda e a semana (ou o mês) num segundo contorno, por dentro. Verde, laranja a partir de 80% e vermelho a partir de 100%. Passe o mouse para ver os números.
+- **Atividade no contorno:** trabalhando, um brilho dá voltas pelo contorno; esperando você, o contorno fica laranja e pulsa.
+- **Ícones pequenos até o hover:** os ícones da borda começam pequenos e só crescem no hover (o Pomodoro com o tempo continua grande).
+]]></description>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.2/Limen-0.22.2.dmg" length="6099317" type="application/octet-stream" sparkle:edSignature="DqMqctsxc9NqZdjXDSkMa+QcrAPDv3J2xe3IRvZ69KE59G6VjLORwZuUEEsbvGPG1XJ3fF8hOEc2l3M6d+lmCQ=="/>
+        </item>
+        <item>
             <title>0.22.1</title>
             <pubDate>Mon, 16 Nov 2026 17:09:28 -0300</pubDate>
             <sparkle:version>58</sparkle:version>
@@ -12,7 +24,7 @@
 - **Ícones menores até o hover:** os ícones da borda ficam menores em repouso e crescem com mola quando o mouse chega neles (ou quando estão fixados).
 - **Tempo do Pomodoro no ícone:** com uma fase em andamento, o ícone do Pomodoro mostra o tempo restante embaixo e fica sempre no tamanho cheio, sem precisar de hover.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.1/Limen-0.22.1.dmg" length="6078707" type="application/octet-stream" sparkle:edSignature="lEBNe5pFK6l9ziaXldAH08w1mGCiZ3x5QxX/FvpHHOEeMAHNWsLnJhA+grzFqkQM4wirKGMtvLKJwXSGkGtnBA=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.2/Limen-0.22.1.dmg" length="6078707" type="application/octet-stream" sparkle:edSignature="lEBNe5pFK6l9ziaXldAH08w1mGCiZ3x5QxX/FvpHHOEeMAHNWsLnJhA+grzFqkQM4wirKGMtvLKJwXSGkGtnBA=="/>
         </item>
         <item>
             <title>0.22.0</title>
@@ -23,18 +35,7 @@
             <description sparkle:format="markdown"><![CDATA[- **Ícones da borda mostram o que está acontecendo:** o Pomodoro troca de ícone e de cor conforme a fase (foco, pausa curta, pausa longa), a Insônia mostra o "zzz" cortado quando está ligada, o Player mostra a onda sonora tocando (ou pausa), e os agentes (Claude, Codex, Cursor, Antigravity) ganham um arco verde correndo enquanto trabalham e um anel laranja pulsando quando esperam você. Com "Reduzir movimento" ligado, o ícone troca sem animar.
 - **Ícones sempre visíveis:** nova opção em Ajustes → Borda, "Manter os ícones sempre visíveis", deixa a fileira de ícones aberta sem esperar o mouse.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.1/Limen-0.22.0.dmg" length="6077507" type="application/octet-stream" sparkle:edSignature="sKsfQAxhy+JijZ482WXgL3TzgnYHWbWMSL3INcuEKHRdJfDRy2t9SEXN8fK36Vgz2rhlrUCgHmT2I08ZGZgLCQ=="/>
-        </item>
-        <item>
-            <title>0.21.1</title>
-            <pubDate>Mon, 16 Nov 2026 15:18:26 -0300</pubDate>
-            <sparkle:version>56</sparkle:version>
-            <sparkle:shortVersionString>0.21.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- **Ícones da borda maiores:** os ícones de vidro da borda ficaram maiores, mais fáceis de ver e de acertar.
-- **Animação com mola:** os ícones entram deslizando da borda com um quique suave, um após o outro, e saem do mesmo jeito ao tirar o mouse. Com "Reduzir movimento" ligado, a animação é pulada.
-]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.1/Limen-0.21.1.dmg" length="6043978" type="application/octet-stream" sparkle:edSignature="gPa5qAfER4jTZs+HcTpuZ6sFV81lT0uoMTtlV0rmhWpPr1GYTwqEyLMeG+XZ8CVqXmjB/w6h9oW5XDY2utuuAA=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.2/Limen-0.22.0.dmg" length="6077507" type="application/octet-stream" sparkle:edSignature="sKsfQAxhy+JijZ482WXgL3TzgnYHWbWMSL3INcuEKHRdJfDRy2t9SEXN8fK36Vgz2rhlrUCgHmT2I08ZGZgLCQ=="/>
         </item>
     </channel>
 </rss>
