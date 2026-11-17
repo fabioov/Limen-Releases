@@ -3,6 +3,18 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
+            <title>0.22.3</title>
+            <pubDate>Tue, 17 Nov 2026 08:55:43 -0300</pubDate>
+            <sparkle:version>60</sparkle:version>
+            <sparkle:shortVersionString>0.22.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Ícones da borda em vidro:** no macOS 26 ou mais novo, os ícones da borda ganham o visual de Liquid Glass. Nas versões anteriores continua o material de antes.
+- **Animação sem salto:** o trecho que circula o ícone do agente enquanto ele trabalha agora dá voltas contínuas, sem pular ao fim de cada volta.
+- **Pomodoro não mostra mais tarefa concluída:** se a tarefa em foco foi concluída ou apagada fora do Limen (nos Lembretes, no iPhone), o Pomodoro solta a tarefa sozinho.
+]]></description>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.3/Limen-0.22.3.dmg" length="6102173" type="application/octet-stream" sparkle:edSignature="I5cNFkerdUQsue2pSP4tq5AP5y/NFlXXHhV5phDBCpzGF0vXPYj1mCsaI+A+tlddxShNXaCBm8nzkrmNXBsdBg=="/>
+        </item>
+        <item>
             <title>0.22.2</title>
             <pubDate>Mon, 16 Nov 2026 17:37:51 -0300</pubDate>
             <sparkle:version>59</sparkle:version>
@@ -12,7 +24,7 @@
 - **Atividade no contorno:** trabalhando, um brilho dá voltas pelo contorno; esperando você, o contorno fica laranja e pulsa.
 - **Ícones pequenos até o hover:** os ícones da borda começam pequenos e só crescem no hover (o Pomodoro com o tempo continua grande).
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.2/Limen-0.22.2.dmg" length="6099317" type="application/octet-stream" sparkle:edSignature="DqMqctsxc9NqZdjXDSkMa+QcrAPDv3J2xe3IRvZ69KE59G6VjLORwZuUEEsbvGPG1XJ3fF8hOEc2l3M6d+lmCQ=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.3/Limen-0.22.2.dmg" length="6099317" type="application/octet-stream" sparkle:edSignature="DqMqctsxc9NqZdjXDSkMa+QcrAPDv3J2xe3IRvZ69KE59G6VjLORwZuUEEsbvGPG1XJ3fF8hOEc2l3M6d+lmCQ=="/>
         </item>
         <item>
             <title>0.22.1</title>
@@ -24,18 +36,7 @@
 - **Ícones menores até o hover:** os ícones da borda ficam menores em repouso e crescem com mola quando o mouse chega neles (ou quando estão fixados).
 - **Tempo do Pomodoro no ícone:** com uma fase em andamento, o ícone do Pomodoro mostra o tempo restante embaixo e fica sempre no tamanho cheio, sem precisar de hover.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.2/Limen-0.22.1.dmg" length="6078707" type="application/octet-stream" sparkle:edSignature="lEBNe5pFK6l9ziaXldAH08w1mGCiZ3x5QxX/FvpHHOEeMAHNWsLnJhA+grzFqkQM4wirKGMtvLKJwXSGkGtnBA=="/>
-        </item>
-        <item>
-            <title>0.22.0</title>
-            <pubDate>Mon, 16 Nov 2026 16:54:15 -0300</pubDate>
-            <sparkle:version>57</sparkle:version>
-            <sparkle:shortVersionString>0.22.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- **Ícones da borda mostram o que está acontecendo:** o Pomodoro troca de ícone e de cor conforme a fase (foco, pausa curta, pausa longa), a Insônia mostra o "zzz" cortado quando está ligada, o Player mostra a onda sonora tocando (ou pausa), e os agentes (Claude, Codex, Cursor, Antigravity) ganham um arco verde correndo enquanto trabalham e um anel laranja pulsando quando esperam você. Com "Reduzir movimento" ligado, o ícone troca sem animar.
-- **Ícones sempre visíveis:** nova opção em Ajustes → Borda, "Manter os ícones sempre visíveis", deixa a fileira de ícones aberta sem esperar o mouse.
-]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.2/Limen-0.22.0.dmg" length="6077507" type="application/octet-stream" sparkle:edSignature="sKsfQAxhy+JijZ482WXgL3TzgnYHWbWMSL3INcuEKHRdJfDRy2t9SEXN8fK36Vgz2rhlrUCgHmT2I08ZGZgLCQ=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.3/Limen-0.22.1.dmg" length="6078707" type="application/octet-stream" sparkle:edSignature="lEBNe5pFK6l9ziaXldAH08w1mGCiZ3x5QxX/FvpHHOEeMAHNWsLnJhA+grzFqkQM4wirKGMtvLKJwXSGkGtnBA=="/>
         </item>
     </channel>
 </rss>
