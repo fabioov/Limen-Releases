@@ -3,6 +3,16 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
+            <title>0.22.4</title>
+            <pubDate>Tue, 17 Nov 2026 15:25:36 -0300</pubDate>
+            <sparkle:version>61</sparkle:version>
+            <sparkle:shortVersionString>0.22.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Ícones da borda não somem mais:** corrigido o caso em que, depois de recolher a fileira (principalmente após mudar a marca de borda), os ícones ficavam invisíveis embora o hover ainda abrisse os detalhes.
+]]></description>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.4/Limen-0.22.4.dmg" length="6103497" type="application/octet-stream" sparkle:edSignature="+4fUPDc13jo0UbtwbsatFkyrIjEhRz2WFjEQwMiQbufl6tpaBiQZtHMtCKaCR4V30XJ8ZRBvkCV/goBeVQ9kAA=="/>
+        </item>
+        <item>
             <title>0.22.3</title>
             <pubDate>Tue, 17 Nov 2026 08:55:43 -0300</pubDate>
             <sparkle:version>60</sparkle:version>
@@ -12,7 +22,7 @@
 - **Animação sem salto:** o trecho que circula o ícone do agente enquanto ele trabalha agora dá voltas contínuas, sem pular ao fim de cada volta.
 - **Pomodoro não mostra mais tarefa concluída:** se a tarefa em foco foi concluída ou apagada fora do Limen (nos Lembretes, no iPhone), o Pomodoro solta a tarefa sozinho.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.3/Limen-0.22.3.dmg" length="6102173" type="application/octet-stream" sparkle:edSignature="I5cNFkerdUQsue2pSP4tq5AP5y/NFlXXHhV5phDBCpzGF0vXPYj1mCsaI+A+tlddxShNXaCBm8nzkrmNXBsdBg=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.4/Limen-0.22.3.dmg" length="6102173" type="application/octet-stream" sparkle:edSignature="I5cNFkerdUQsue2pSP4tq5AP5y/NFlXXHhV5phDBCpzGF0vXPYj1mCsaI+A+tlddxShNXaCBm8nzkrmNXBsdBg=="/>
         </item>
         <item>
             <title>0.22.2</title>
@@ -24,19 +34,7 @@
 - **Atividade no contorno:** trabalhando, um brilho dá voltas pelo contorno; esperando você, o contorno fica laranja e pulsa.
 - **Ícones pequenos até o hover:** os ícones da borda começam pequenos e só crescem no hover (o Pomodoro com o tempo continua grande).
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.3/Limen-0.22.2.dmg" length="6099317" type="application/octet-stream" sparkle:edSignature="DqMqctsxc9NqZdjXDSkMa+QcrAPDv3J2xe3IRvZ69KE59G6VjLORwZuUEEsbvGPG1XJ3fF8hOEc2l3M6d+lmCQ=="/>
-        </item>
-        <item>
-            <title>0.22.1</title>
-            <pubDate>Mon, 16 Nov 2026 17:09:28 -0300</pubDate>
-            <sparkle:version>58</sparkle:version>
-            <sparkle:shortVersionString>0.22.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- **Insônia fora da barra de menus quando você quiser:** o botão "Menubar" do Insônia em Ajustes → Borda → Ícones agora decide se o ícone aparece na barra de menus. Desligado, ele não aparece nem com o Insônia ativo (antes só escondia o tempo restante). Quem já tinha desligado continua sem ele.
-- **Ícones menores até o hover:** os ícones da borda ficam menores em repouso e crescem com mola quando o mouse chega neles (ou quando estão fixados).
-- **Tempo do Pomodoro no ícone:** com uma fase em andamento, o ícone do Pomodoro mostra o tempo restante embaixo e fica sempre no tamanho cheio, sem precisar de hover.
-]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.3/Limen-0.22.1.dmg" length="6078707" type="application/octet-stream" sparkle:edSignature="lEBNe5pFK6l9ziaXldAH08w1mGCiZ3x5QxX/FvpHHOEeMAHNWsLnJhA+grzFqkQM4wirKGMtvLKJwXSGkGtnBA=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.4/Limen-0.22.2.dmg" length="6099317" type="application/octet-stream" sparkle:edSignature="DqMqctsxc9NqZdjXDSkMa+QcrAPDv3J2xe3IRvZ69KE59G6VjLORwZuUEEsbvGPG1XJ3fF8hOEc2l3M6d+lmCQ=="/>
         </item>
     </channel>
 </rss>
