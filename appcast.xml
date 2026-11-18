@@ -3,6 +3,16 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
+            <title>0.22.7</title>
+            <pubDate>Wed, 18 Nov 2026 20:15:23 -0300</pubDate>
+            <sparkle:version>64</sparkle:version>
+            <sparkle:shortVersionString>0.22.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Contorno do consumo volta a correr depois que o Mac acorda:** o brilho e o pulso dos contornos e do anel dos ícones da borda são refeitos ao sair do repouso, ao trocar de tela e quando a janela volta a aparecer.
+]]></description>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.7/Limen-0.22.7.dmg" length="6120146" type="application/octet-stream" sparkle:edSignature="NatkFiydnKsOdMKUw+UUybshH7XF6V827jMFkVSAP8UMrv5TCGwjhPlmvN40oihTRzM0u3F8N57Il9FPtlx7CA=="/>
+        </item>
+        <item>
             <title>0.22.6</title>
             <pubDate>Wed, 18 Nov 2026 14:07:35 -0300</pubDate>
             <sparkle:version>63</sparkle:version>
@@ -10,7 +20,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[- **Contorno do consumo não some mais:** o contorno de consumo e o anel de atividade dos ícones da borda agora se refazem sozinhos quando o macOS recria a camada do ícone, sem precisar reabrir o app.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.6/Limen-0.22.6.dmg" length="6111682" type="application/octet-stream" sparkle:edSignature="8pQitAzGlJ0j3GUP+g7JTHD4+0EhvbXQ8P04SYIKWyCTgalf+AvTdbj7P1/i0J21HALbHuC9PeYyPVkaDJvNCw=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.7/Limen-0.22.6.dmg" length="6111682" type="application/octet-stream" sparkle:edSignature="8pQitAzGlJ0j3GUP+g7JTHD4+0EhvbXQ8P04SYIKWyCTgalf+AvTdbj7P1/i0J21HALbHuC9PeYyPVkaDJvNCw=="/>
         </item>
         <item>
             <title>0.22.4</title>
@@ -20,19 +30,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[- **Ícones da borda não somem mais:** corrigido o caso em que, depois de recolher a fileira (principalmente após mudar a marca de borda), os ícones ficavam invisíveis embora o hover ainda abrisse os detalhes.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.6/Limen-0.22.4.dmg" length="6103497" type="application/octet-stream" sparkle:edSignature="+4fUPDc13jo0UbtwbsatFkyrIjEhRz2WFjEQwMiQbufl6tpaBiQZtHMtCKaCR4V30XJ8ZRBvkCV/goBeVQ9kAA=="/>
-        </item>
-        <item>
-            <title>0.22.3</title>
-            <pubDate>Tue, 17 Nov 2026 08:55:43 -0300</pubDate>
-            <sparkle:version>60</sparkle:version>
-            <sparkle:shortVersionString>0.22.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- **Ícones da borda em vidro:** no macOS 26 ou mais novo, os ícones da borda ganham o visual de Liquid Glass. Nas versões anteriores continua o material de antes.
-- **Animação sem salto:** o trecho que circula o ícone do agente enquanto ele trabalha agora dá voltas contínuas, sem pular ao fim de cada volta.
-- **Pomodoro não mostra mais tarefa concluída:** se a tarefa em foco foi concluída ou apagada fora do Limen (nos Lembretes, no iPhone), o Pomodoro solta a tarefa sozinho.
-]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.6/Limen-0.22.3.dmg" length="6102173" type="application/octet-stream" sparkle:edSignature="I5cNFkerdUQsue2pSP4tq5AP5y/NFlXXHhV5phDBCpzGF0vXPYj1mCsaI+A+tlddxShNXaCBm8nzkrmNXBsdBg=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.7/Limen-0.22.4.dmg" length="6103497" type="application/octet-stream" sparkle:edSignature="+4fUPDc13jo0UbtwbsatFkyrIjEhRz2WFjEQwMiQbufl6tpaBiQZtHMtCKaCR4V30XJ8ZRBvkCV/goBeVQ9kAA=="/>
         </item>
     </channel>
 </rss>
