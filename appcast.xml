@@ -3,6 +3,16 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
+            <title>0.22.6</title>
+            <pubDate>Wed, 18 Nov 2026 14:07:35 -0300</pubDate>
+            <sparkle:version>63</sparkle:version>
+            <sparkle:shortVersionString>0.22.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Contorno do consumo não some mais:** o contorno de consumo e o anel de atividade dos ícones da borda agora se refazem sozinhos quando o macOS recria a camada do ícone, sem precisar reabrir o app.
+]]></description>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.6/Limen-0.22.6.dmg" length="6111682" type="application/octet-stream" sparkle:edSignature="8pQitAzGlJ0j3GUP+g7JTHD4+0EhvbXQ8P04SYIKWyCTgalf+AvTdbj7P1/i0J21HALbHuC9PeYyPVkaDJvNCw=="/>
+        </item>
+        <item>
             <title>0.22.4</title>
             <pubDate>Tue, 17 Nov 2026 15:25:36 -0300</pubDate>
             <sparkle:version>61</sparkle:version>
@@ -10,7 +20,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[- **Ícones da borda não somem mais:** corrigido o caso em que, depois de recolher a fileira (principalmente após mudar a marca de borda), os ícones ficavam invisíveis embora o hover ainda abrisse os detalhes.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.4/Limen-0.22.4.dmg" length="6103497" type="application/octet-stream" sparkle:edSignature="+4fUPDc13jo0UbtwbsatFkyrIjEhRz2WFjEQwMiQbufl6tpaBiQZtHMtCKaCR4V30XJ8ZRBvkCV/goBeVQ9kAA=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.6/Limen-0.22.4.dmg" length="6103497" type="application/octet-stream" sparkle:edSignature="+4fUPDc13jo0UbtwbsatFkyrIjEhRz2WFjEQwMiQbufl6tpaBiQZtHMtCKaCR4V30XJ8ZRBvkCV/goBeVQ9kAA=="/>
         </item>
         <item>
             <title>0.22.3</title>
@@ -22,19 +32,7 @@
 - **Animação sem salto:** o trecho que circula o ícone do agente enquanto ele trabalha agora dá voltas contínuas, sem pular ao fim de cada volta.
 - **Pomodoro não mostra mais tarefa concluída:** se a tarefa em foco foi concluída ou apagada fora do Limen (nos Lembretes, no iPhone), o Pomodoro solta a tarefa sozinho.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.4/Limen-0.22.3.dmg" length="6102173" type="application/octet-stream" sparkle:edSignature="I5cNFkerdUQsue2pSP4tq5AP5y/NFlXXHhV5phDBCpzGF0vXPYj1mCsaI+A+tlddxShNXaCBm8nzkrmNXBsdBg=="/>
-        </item>
-        <item>
-            <title>0.22.2</title>
-            <pubDate>Mon, 16 Nov 2026 17:37:51 -0300</pubDate>
-            <sparkle:version>59</sparkle:version>
-            <sparkle:shortVersionString>0.22.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- **Consumo no contorno do ícone:** os ícones dos agentes (Claude, Codex, Cursor, Antigravity) mostram o consumo em volta do chip: a sessão na borda e a semana (ou o mês) num segundo contorno, por dentro. Verde, laranja a partir de 80% e vermelho a partir de 100%. Passe o mouse para ver os números.
-- **Atividade no contorno:** trabalhando, um brilho dá voltas pelo contorno; esperando você, o contorno fica laranja e pulsa.
-- **Ícones pequenos até o hover:** os ícones da borda começam pequenos e só crescem no hover (o Pomodoro com o tempo continua grande).
-]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.4/Limen-0.22.2.dmg" length="6099317" type="application/octet-stream" sparkle:edSignature="DqMqctsxc9NqZdjXDSkMa+QcrAPDv3J2xe3IRvZ69KE59G6VjLORwZuUEEsbvGPG1XJ3fF8hOEc2l3M6d+lmCQ=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.6/Limen-0.22.3.dmg" length="6102173" type="application/octet-stream" sparkle:edSignature="I5cNFkerdUQsue2pSP4tq5AP5y/NFlXXHhV5phDBCpzGF0vXPYj1mCsaI+A+tlddxShNXaCBm8nzkrmNXBsdBg=="/>
         </item>
     </channel>
 </rss>
