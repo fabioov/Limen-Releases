@@ -3,6 +3,16 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
+            <title>0.22.8</title>
+            <pubDate>Thu, 19 Nov 2026 09:07:39 -0300</pubDate>
+            <sparkle:version>65</sparkle:version>
+            <sparkle:shortVersionString>0.22.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Contorno do consumo mais firme depois do repouso:** o contorno e o anel dos ícones da borda ficam sempre por cima do vidro, são conferidos a cada 2 s e refeitos se sumirem ou pararem, e também ao desbloquear a tela ou trocar de monitor.
+]]></description>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.8/Limen-0.22.8.dmg" length="6126285" type="application/octet-stream" sparkle:edSignature="6oV+zrrwO7aClkPUF2fU+19U5CVVBjAOJa8CAYIZ7UBf8k71KA6uWy60492K2VVoNPZWDHi/05cx0y2OQ1lCAg=="/>
+        </item>
+        <item>
             <title>0.22.7</title>
             <pubDate>Wed, 18 Nov 2026 20:15:23 -0300</pubDate>
             <sparkle:version>64</sparkle:version>
@@ -10,7 +20,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[- **Contorno do consumo volta a correr depois que o Mac acorda:** o brilho e o pulso dos contornos e do anel dos ícones da borda são refeitos ao sair do repouso, ao trocar de tela e quando a janela volta a aparecer.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.7/Limen-0.22.7.dmg" length="6120146" type="application/octet-stream" sparkle:edSignature="NatkFiydnKsOdMKUw+UUybshH7XF6V827jMFkVSAP8UMrv5TCGwjhPlmvN40oihTRzM0u3F8N57Il9FPtlx7CA=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.8/Limen-0.22.7.dmg" length="6120146" type="application/octet-stream" sparkle:edSignature="NatkFiydnKsOdMKUw+UUybshH7XF6V827jMFkVSAP8UMrv5TCGwjhPlmvN40oihTRzM0u3F8N57Il9FPtlx7CA=="/>
         </item>
         <item>
             <title>0.22.6</title>
@@ -20,17 +30,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[- **Contorno do consumo não some mais:** o contorno de consumo e o anel de atividade dos ícones da borda agora se refazem sozinhos quando o macOS recria a camada do ícone, sem precisar reabrir o app.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.7/Limen-0.22.6.dmg" length="6111682" type="application/octet-stream" sparkle:edSignature="8pQitAzGlJ0j3GUP+g7JTHD4+0EhvbXQ8P04SYIKWyCTgalf+AvTdbj7P1/i0J21HALbHuC9PeYyPVkaDJvNCw=="/>
-        </item>
-        <item>
-            <title>0.22.4</title>
-            <pubDate>Tue, 17 Nov 2026 15:25:36 -0300</pubDate>
-            <sparkle:version>61</sparkle:version>
-            <sparkle:shortVersionString>0.22.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- **Ícones da borda não somem mais:** corrigido o caso em que, depois de recolher a fileira (principalmente após mudar a marca de borda), os ícones ficavam invisíveis embora o hover ainda abrisse os detalhes.
-]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.7/Limen-0.22.4.dmg" length="6103497" type="application/octet-stream" sparkle:edSignature="+4fUPDc13jo0UbtwbsatFkyrIjEhRz2WFjEQwMiQbufl6tpaBiQZtHMtCKaCR4V30XJ8ZRBvkCV/goBeVQ9kAA=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.8/Limen-0.22.6.dmg" length="6111682" type="application/octet-stream" sparkle:edSignature="8pQitAzGlJ0j3GUP+g7JTHD4+0EhvbXQ8P04SYIKWyCTgalf+AvTdbj7P1/i0J21HALbHuC9PeYyPVkaDJvNCw=="/>
         </item>
     </channel>
 </rss>
