@@ -3,6 +3,16 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
+            <title>0.22.10</title>
+            <pubDate>Mon, 23 Nov 2026 17:08:48 -0300</pubDate>
+            <sparkle:version>67</sparkle:version>
+            <sparkle:shortVersionString>0.22.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Pomodoro: "Parar" de verdade:** o botão "Reiniciar" agora se chama "Parar" (painel, menu da barra e atalho) e, no modo por atividade, o Pomodoro não começa um novo foco sozinho ao mexer no mouse depois de parado. Ele só volta quando você iniciar de novo.
+]]></description>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.10/Limen-0.22.10.dmg" length="6135765" type="application/octet-stream" sparkle:edSignature="x1M6oBN9mAv83CSn2RbX7ctaVingPolEyGPbVFUsIxmrC2iBah0vXZKDBKRTbUCQYm305UNpxHEI6UB0a3J1Bw=="/>
+        </item>
+        <item>
             <title>0.22.9</title>
             <pubDate>Mon, 23 Nov 2026 13:48:01 -0300</pubDate>
             <sparkle:version>66</sparkle:version>
@@ -10,7 +20,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[- **"Escolher data…" nas tarefas funciona de novo:** o painel de tarefas da borda agora fica fixo ao abrir o menu de contexto (antes fechava e levava o calendário junto) e acompanha o tamanho do conteúdo.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.9/Limen-0.22.9.dmg" length="6136510" type="application/octet-stream" sparkle:edSignature="eDjm7GGh+UNZypCSRDou3nmgxbsXqg0F12QyXXb+SPKjZXtIdloM1WjXnbegtjwQpFtZ+9rxi3gx6YLXh/fxAQ=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.10/Limen-0.22.9.dmg" length="6136510" type="application/octet-stream" sparkle:edSignature="eDjm7GGh+UNZypCSRDou3nmgxbsXqg0F12QyXXb+SPKjZXtIdloM1WjXnbegtjwQpFtZ+9rxi3gx6YLXh/fxAQ=="/>
         </item>
         <item>
             <title>0.22.8</title>
@@ -20,17 +30,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[- **Contorno do consumo mais firme depois do repouso:** o contorno e o anel dos ícones da borda ficam sempre por cima do vidro, são conferidos a cada 2 s e refeitos se sumirem ou pararem, e também ao desbloquear a tela ou trocar de monitor.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.9/Limen-0.22.8.dmg" length="6126285" type="application/octet-stream" sparkle:edSignature="6oV+zrrwO7aClkPUF2fU+19U5CVVBjAOJa8CAYIZ7UBf8k71KA6uWy60492K2VVoNPZWDHi/05cx0y2OQ1lCAg=="/>
-        </item>
-        <item>
-            <title>0.22.7</title>
-            <pubDate>Wed, 18 Nov 2026 20:15:23 -0300</pubDate>
-            <sparkle:version>64</sparkle:version>
-            <sparkle:shortVersionString>0.22.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- **Contorno do consumo volta a correr depois que o Mac acorda:** o brilho e o pulso dos contornos e do anel dos ícones da borda são refeitos ao sair do repouso, ao trocar de tela e quando a janela volta a aparecer.
-]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.9/Limen-0.22.7.dmg" length="6120146" type="application/octet-stream" sparkle:edSignature="NatkFiydnKsOdMKUw+UUybshH7XF6V827jMFkVSAP8UMrv5TCGwjhPlmvN40oihTRzM0u3F8N57Il9FPtlx7CA=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.10/Limen-0.22.8.dmg" length="6126285" type="application/octet-stream" sparkle:edSignature="6oV+zrrwO7aClkPUF2fU+19U5CVVBjAOJa8CAYIZ7UBf8k71KA6uWy60492K2VVoNPZWDHi/05cx0y2OQ1lCAg=="/>
         </item>
     </channel>
 </rss>
