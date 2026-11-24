@@ -3,6 +3,19 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
+            <title>0.23.0</title>
+            <pubDate>Tue, 24 Nov 2026 16:33:05 -0300</pubDate>
+            <sparkle:version>69</sparkle:version>
+            <sparkle:shortVersionString>0.23.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Tarefas: visão Calendário:** além de Agenda e Lista, agora há o Calendário, com a semana (padrão) ou o mês, pontinhos nos dias com tarefas e a lista do dia escolhido embaixo. Tarefa nova nasce no dia selecionado.
+- **Tarefas: eventos do app Calendário (opcional):** nos Ajustes de Tarefas, ligue "Mostrar eventos do Calendário" e escolha quais calendários aparecem. Os eventos ficam só para ver, com botão "Entrar" nos links de reunião.
+- **Pomodoro: sessões:** crie sessões com etapas livres de foco e pausas (ex.: 25·5·25·5·25·10), com "Repetir ao terminar" e "Montar rápido". Ao fim, o Limen avisa. Escolha a sessão no painel da borda ou no menu da barra a qualquer momento; as durações antigas viram a sessão "Padrão".
+- **Atalhos e Captura com menu aberto:** os atalhos globais agora funcionam com um menu do Limen aberto, e a Captura já inclui o menu na imagem. Novo item "Capturar a tela" no menu da barra.
+]]></description>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.23.0/Limen-0.23.0.dmg" length="6621106" type="application/octet-stream" sparkle:edSignature="da8KPeI8Z0MRU+JqqbKc5S1mOGEXydR3H9lBczLqjDspGKZxAOOpMQknHxCTaKCHMNfAzh/pYrrOYw363BvWBw=="/>
+        </item>
+        <item>
             <title>0.22.11</title>
             <pubDate>Tue, 24 Nov 2026 14:15:16 -0300</pubDate>
             <sparkle:version>68</sparkle:version>
@@ -11,7 +24,7 @@
             <description sparkle:format="markdown"><![CDATA[- **Borda: ícones não somem mais ao clicar:** um clique com o mouse tremendo num ícone (como o do player) era tratado como arrastar a marca e encolhia a fileira de ícones. Agora o clique funciona normalmente.
 - **"Mostrar marca na borda" funciona:** desligado, a marca fica invisível mas os ícones ainda abrem ao passar o mouse na borda.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.11/Limen-0.22.11.dmg" length="6136372" type="application/octet-stream" sparkle:edSignature="J6wiEvEEhYV5Ki5E1FIWCWbNUPA7oYLTkIJ8Wc7b3v4Wlw5Fbx+ZXhkP+R+HIyqn1d44CJX++Uywi/Lqat4GDw=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.23.0/Limen-0.22.11.dmg" length="6136372" type="application/octet-stream" sparkle:edSignature="J6wiEvEEhYV5Ki5E1FIWCWbNUPA7oYLTkIJ8Wc7b3v4Wlw5Fbx+ZXhkP+R+HIyqn1d44CJX++Uywi/Lqat4GDw=="/>
         </item>
         <item>
             <title>0.22.10</title>
@@ -21,17 +34,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[- **Pomodoro: "Parar" de verdade:** o botão "Reiniciar" agora se chama "Parar" (painel, menu da barra e atalho) e, no modo por atividade, o Pomodoro não começa um novo foco sozinho ao mexer no mouse depois de parado. Ele só volta quando você iniciar de novo.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.11/Limen-0.22.10.dmg" length="6135765" type="application/octet-stream" sparkle:edSignature="x1M6oBN9mAv83CSn2RbX7ctaVingPolEyGPbVFUsIxmrC2iBah0vXZKDBKRTbUCQYm305UNpxHEI6UB0a3J1Bw=="/>
-        </item>
-        <item>
-            <title>0.22.9</title>
-            <pubDate>Mon, 23 Nov 2026 13:48:01 -0300</pubDate>
-            <sparkle:version>66</sparkle:version>
-            <sparkle:shortVersionString>0.22.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- **"Escolher data…" nas tarefas funciona de novo:** o painel de tarefas da borda agora fica fixo ao abrir o menu de contexto (antes fechava e levava o calendário junto) e acompanha o tamanho do conteúdo.
-]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.11/Limen-0.22.9.dmg" length="6136510" type="application/octet-stream" sparkle:edSignature="eDjm7GGh+UNZypCSRDou3nmgxbsXqg0F12QyXXb+SPKjZXtIdloM1WjXnbegtjwQpFtZ+9rxi3gx6YLXh/fxAQ=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.23.0/Limen-0.22.10.dmg" length="6135765" type="application/octet-stream" sparkle:edSignature="x1M6oBN9mAv83CSn2RbX7ctaVingPolEyGPbVFUsIxmrC2iBah0vXZKDBKRTbUCQYm305UNpxHEI6UB0a3J1Bw=="/>
         </item>
     </channel>
 </rss>
