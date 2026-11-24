@@ -3,6 +3,17 @@
     <channel>
         <title>EdgePlayer</title>
         <item>
+            <title>0.22.11</title>
+            <pubDate>Tue, 24 Nov 2026 14:15:16 -0300</pubDate>
+            <sparkle:version>68</sparkle:version>
+            <sparkle:shortVersionString>0.22.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- **Borda: ícones não somem mais ao clicar:** um clique com o mouse tremendo num ícone (como o do player) era tratado como arrastar a marca e encolhia a fileira de ícones. Agora o clique funciona normalmente.
+- **"Mostrar marca na borda" funciona:** desligado, a marca fica invisível mas os ícones ainda abrem ao passar o mouse na borda.
+]]></description>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.11/Limen-0.22.11.dmg" length="6136372" type="application/octet-stream" sparkle:edSignature="J6wiEvEEhYV5Ki5E1FIWCWbNUPA7oYLTkIJ8Wc7b3v4Wlw5Fbx+ZXhkP+R+HIyqn1d44CJX++Uywi/Lqat4GDw=="/>
+        </item>
+        <item>
             <title>0.22.10</title>
             <pubDate>Mon, 23 Nov 2026 17:08:48 -0300</pubDate>
             <sparkle:version>67</sparkle:version>
@@ -10,7 +21,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[- **Pomodoro: "Parar" de verdade:** o botão "Reiniciar" agora se chama "Parar" (painel, menu da barra e atalho) e, no modo por atividade, o Pomodoro não começa um novo foco sozinho ao mexer no mouse depois de parado. Ele só volta quando você iniciar de novo.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.10/Limen-0.22.10.dmg" length="6135765" type="application/octet-stream" sparkle:edSignature="x1M6oBN9mAv83CSn2RbX7ctaVingPolEyGPbVFUsIxmrC2iBah0vXZKDBKRTbUCQYm305UNpxHEI6UB0a3J1Bw=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.11/Limen-0.22.10.dmg" length="6135765" type="application/octet-stream" sparkle:edSignature="x1M6oBN9mAv83CSn2RbX7ctaVingPolEyGPbVFUsIxmrC2iBah0vXZKDBKRTbUCQYm305UNpxHEI6UB0a3J1Bw=="/>
         </item>
         <item>
             <title>0.22.9</title>
@@ -20,17 +31,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[- **"Escolher data…" nas tarefas funciona de novo:** o painel de tarefas da borda agora fica fixo ao abrir o menu de contexto (antes fechava e levava o calendário junto) e acompanha o tamanho do conteúdo.
 ]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.10/Limen-0.22.9.dmg" length="6136510" type="application/octet-stream" sparkle:edSignature="eDjm7GGh+UNZypCSRDou3nmgxbsXqg0F12QyXXb+SPKjZXtIdloM1WjXnbegtjwQpFtZ+9rxi3gx6YLXh/fxAQ=="/>
-        </item>
-        <item>
-            <title>0.22.8</title>
-            <pubDate>Thu, 19 Nov 2026 09:07:39 -0300</pubDate>
-            <sparkle:version>65</sparkle:version>
-            <sparkle:shortVersionString>0.22.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- **Contorno do consumo mais firme depois do repouso:** o contorno e o anel dos ícones da borda ficam sempre por cima do vidro, são conferidos a cada 2 s e refeitos se sumirem ou pararem, e também ao desbloquear a tela ou trocar de monitor.
-]]></description>
-            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.10/Limen-0.22.8.dmg" length="6126285" type="application/octet-stream" sparkle:edSignature="6oV+zrrwO7aClkPUF2fU+19U5CVVBjAOJa8CAYIZ7UBf8k71KA6uWy60492K2VVoNPZWDHi/05cx0y2OQ1lCAg=="/>
+            <enclosure url="https://github.com/fabioov/Limen-Releases/releases/download/v0.22.11/Limen-0.22.9.dmg" length="6136510" type="application/octet-stream" sparkle:edSignature="eDjm7GGh+UNZypCSRDou3nmgxbsXqg0F12QyXXb+SPKjZXtIdloM1WjXnbegtjwQpFtZ+9rxi3gx6YLXh/fxAQ=="/>
         </item>
     </channel>
 </rss>
